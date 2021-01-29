@@ -1,6 +1,5 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
 
 UD_Old_Japanese-LMJ is a collection of annotated texts in Late Middle Japanese. The texts are being translated by SR, and are annotated by SR and FFG.
 
