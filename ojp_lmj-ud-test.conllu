@@ -8,5 +8,5 @@
 5	the	the	DET	det	_	6	det	6:det	_
 6	garden	garden	NOUN	n	_	2	obl	2:obl	_
 7	by	by	ADP	posp	_	8	case	8:case	_
-8	night	night	NOUN	n	_	2	advmod	2:advmod	_
+8	night	night	NOUN	n	_	2	obl	2:obl	_
 
