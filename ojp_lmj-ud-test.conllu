@@ -1,12 +1,15 @@
 # sent_id = 1
-# text = I eat bananas in the garden by night
-# text_eng = ldfhlkadfhladhgfiduhga (sent 3, 4)
-1	I	I	PRON	pro	PronType=Prs	2	nsubj	2:nsubj	_
-2	eat	eat	VERB	vt	Mood=Ind|Tense=Pres	0	root	0:root	_
-3	bananas	banana	NOUN	n	_	2	obj	2:obj	_
-4	in	in	ADP	posp	_	6	case	6:case	_
-5	the	the	DET	det	_	6	det	6:det	_
-6	garden	garden	NOUN	n	_	2	obl	2:obl	_
-7	by	by	ADP	posp	_	8	case	8:case	_
-8	night	night	NOUN	n	_	2	obl	2:obl	_
+# text = Yuku kawano nagarewa taezu shite , shikamo motono mizuni arazu
+# text_transl =
+# text_eng =
+1	Yuku	yuku	VERB	vi	_	_	_	_	_
+2	kawano	kawa	NOUN	n	_	_	_	_	_
+3	nagarewa	nagare	NOUN	n	_	_	_	_	_
+4	taezu	taeru	VERB	vi	_	_	_	_	_
+5	shite	suru	_	_	_	_	_	_	_
+6	,	,	PUNCT	punct	_	_	_	_	_
+7	shikamo	shikamo	ADV	adv	_	_	_	_	_
+8	motono	moto	NOUN	n	_	_	_	_	_
+9	mizuni	mizu	NOUN	n	_	_	_	_	_
+10	arazu	ari	AUX	cop	_	_	_	_	_
 
