@@ -7,7 +7,7 @@
 4	、	、	PUNCT	Supsym.c	PunctType=Comm	3	punct	_	SpaceAfter=No
 5	諸行無常の	しょぎゃうむじゃう	NOUN	N.c.g	Case=Gen	6	nmod	_	SpaceAfter=No
 6	響	ひびき	NOUN	N.c.g	_	0	root	_	SpaceAfter=No
-7	あり	あり	VERB	V	Mood=Ind|Polite=Infm|Tense=Pres|VerbType=Aux	6	cop	_	SpaceAfter=No
+7	あり	あり	AUX	Aux	Mood=Ind|Polite=Infm|Tense=Pres|VerbType=Aux	6	cop	_	SpaceAfter=No
 8	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	SpaceAfter=No
 
 # sent_id = ch1_part1_sent2
@@ -25,7 +25,7 @@
 # sent_id = ch1_part1_sent3
 # text = おごれる人も久しからず、唯春の夜の夢のごとし。
 # text_ger = 
-1	おごれる	おごる	VERB	V	VerbForm=Adnom	2	acl	_	SpaceAfter=No
+1	おごれる	おごる	VERB	V	_	2	acl	_	SpaceAfter=No
 2	人も	ひと	NOUN	N.c.g	Number=Coll	9	nsubj	_	SpaceAfter=No
 3	久しからず	ひさし	ADJ	Ai	Polarity=Neg	9	advcl	_	SpaceAfter=No
 4	、	、	PUNCT	Supsym.c	PunctType=Comm	3	punct	_	SpaceAfter=No
@@ -241,7 +241,7 @@
 27	て	て	SCONJ	P.conj	_	25	mark	_	SpaceAfter=No
 28	、	、	PUNCT	Supsym.c	PunctType=Comm	25	punct	_	SpaceAfter=No
 29	寒苦鳥に	かんくてう	NOUN	N.c.g	Case=Equ	30	obl	_	SpaceAfter=No
-30	ことならず	ことなり	ADJ	Ai	Mood=Ind|Polarity=Neg|Polite=Infm|VerbForm=Fin	0	root	_	SpaceAfter=No
+30	ことならず	ことなり	ADJ	Ai	Mood=Ind|Polarity=Neg|Polite=Infm	0	root	_	SpaceAfter=No
 31	。	。	PUNCT	Supsym.p	PunctType=Peri	30	punct	_	SpaceAfter=No
 
 # sent_id = 10
@@ -403,7 +403,7 @@
 17	もののぐ	もののぐ	NOUN	N.c.vs	_	21	advcl	_	SpaceAfter=No
 18	し	す	AUX	V	VerbType=Light	17	compound:lvc	_	SpaceAfter=No
 19	て	て	SCONJ	P.conj	_	17	mark	_	SpaceAfter=No
-20	頼朝が	よりとも	PROPN	N.prop.n.f	NameType=Giv|Case=Nom	21	nsubj	_	SpaceAfter=No
+20	頼朝が	よりとも	PROPN	N.prop.n.f	Case=Nom|NameType=Giv	21	nsubj	_	SpaceAfter=No
 21	のるべき	のる	VERB	V	_	22	acl	_	SpaceAfter=No
 22	馬	うま	NOUN	N.c.g	_	10	ccomp	_	SpaceAfter=No
 23	なり	なり	AUX	Aux	VerbType=Cop	22	cop	_	SpaceAfter=No
@@ -790,7 +790,7 @@
 # text = 佐々木四郎が給はたる御馬は黒栗毛なる馬の究めてふとうたくましいが馬をも人をもあたりをはらって食ければ、いけずきとつけられたり。
 # text_ger = 
 1	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	2	flat:name	_	SpaceAfter=No
-2	四郎が	しらう	PROPN	N.prop.n.f	NameType=Giv|Case=Nom	3	nsubj	_	SpaceAfter=No
+2	四郎が	しらう	PROPN	N.prop.n.f	Case=Nom|NameType=Giv	3	nsubj	_	SpaceAfter=No
 3	給はたる	たまふ	VERB	V	_	4	acl	_	SpaceAfter=No
 4	御馬は	おんま	NOUN	N.c.g	_	7	nsubj	_	SpaceAfter=No
 5	黒栗毛	くろくりげ	NOUN	N.c.g	_	7	acl	_	SpaceAfter=No
@@ -1607,8 +1607,8 @@
 19	切	きる	VERB	V	_	26	advcl	_	SpaceAfter=No
 20	て	て	SCONJ	P.conj	_	19	mark	_	SpaceAfter=No
 21	、	、	PUNCT	Supsym.c	PunctType=Comm	19	punct	_	SpaceAfter=No
-22	本田	ほんだ	PROPN	N.prop.n.s	NameType=Sur	23	flat:name	_	SpaceAfter=No
-23	二郎が	じらう	PROPN	N.prop.n.f	NameType=Giv	24	nmod	_	SpaceAfter=No
+22	本田	ほんだ	PROPN	N.prop.n.s	NameType=Sur	23	nmod	_	SpaceAfter=No
+23	二郎が	じらう	PROPN	N.prop.n.f	NameType=Giv	24	flat:name	_	SpaceAfter=No
 24	鞍の	くら	NOUN	N.c.g	_	25	nmod	_	SpaceAfter=No
 25	とりつけにこそ	とりつけ	NOUN	N.c.g	_	26	obl:lmod	_	SpaceAfter=No
 26	つけさせけれ	つく	VERB	V	_	0	root	_	SpaceAfter=No
@@ -1657,9 +1657,9 @@
 # text = 勢田をば稲毛三郎重成がはからひにて、田上供御の瀬をこそ渡しけれ。
 # text_ger = 
 1	勢田をば	せた	PROPN	N.prop.p.g	NameType=Geo	10	nsubj	_	SpaceAfter=No
-2	稲毛	いなげの	PROPN	N.prop.s	NameType=Sur	4	flat:name	_	SpaceAfter=No
-3	三郎	さぶらう	PROPN	N.prop.f	NameType=Giv	4	flat:name	_	SpaceAfter=No
-4	重成が	しげなり	PROPN	N.prop.f	NameType=Giv	5	nmod	_	SpaceAfter=No
+2	稲毛	いなげの	PROPN	N.prop.s	NameType=Sur	5	nmod	_	SpaceAfter=No
+3	三郎	さぶらう	PROPN	N.prop.f	NameType=Giv	2	flat:name	_	SpaceAfter=No
+4	重成が	しげなり	PROPN	N.prop.f	NameType=Giv	2	flat:name	_	SpaceAfter=No
 5	はからひにて	はかる	NOUN	N.c.g	_	10	obl	_	SpaceAfter=No
 6	、	、	PUNCT	Supsym.c	PunctType=Comm	5	punct	_	SpaceAfter=No
 7	田上	たなかみの	PROPN	N.prop.p.g	NameType=Geo	8	flat	_	SpaceAfter=No
