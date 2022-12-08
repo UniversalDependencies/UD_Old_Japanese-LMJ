@@ -26,11 +26,11 @@ Data available since: UD v2.8
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: fiction
-Lemmas: manual
-UPOS: manual
-XPOS: manual
-Features: manual
-Relations: manual
+Lemmas: manual native
+UPOS: manual native
+XPOS: manual native
+Features: manual native
+Relations: manual native
 Contributors: Reichert, Stanislav; Gerardi, Fabrício Ferraz
 Contributing: elsewhere
 Contact: fabricio.gerardi@uni-tuebingen.de
