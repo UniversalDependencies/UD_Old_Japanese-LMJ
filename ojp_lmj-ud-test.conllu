@@ -33,7 +33,7 @@
 6	春の	はる	NOUN	N.c.g	Case=Gen	7	nmod	_	SpaceAfter=No
 7	夜の	よ	NOUN	N.c.g	Case=Gen	8	nmod	_	SpaceAfter=No
 8	夢の	ゆめ	NOUN	N.c.g	Case=Gen	9	nmod	_	SpaceAfter=No
-9	ごとし	ごとし	ADJ	Aux	Polite=Infm	0	root	_	SpaceAfter=No
+9	ごとし	ごとし	ADJ	Aux	_	0	root	_	SpaceAfter=No
 10	。	。	PUNCT	Supsym.p	PunctType=Peri	9	punct	_	SpaceAfter=No
 
 # sent_id = ch1_part1_sent4
