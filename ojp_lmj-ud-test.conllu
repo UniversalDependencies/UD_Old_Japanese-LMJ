@@ -48,7 +48,7 @@
 7	風の	かぜ	NOUN	N.c.g	Case=Gen	8	nmod	_	SpaceAfter=No
 8	前の	まへ	NOUN	N.c.g	Case=Gen	9	nmod	_	SpaceAfter=No
 9	塵に	ちり	NOUN	N.c.g	_	10	obl	_	SpaceAfter=No
-10	同じ	おなじ	ADJ	Ai	Mood=Ind|Polite=Infm	0	root	_	SpaceAfter=No
+10	同じ	おなじ	ADJ	Ai	_	0	root	_	SpaceAfter=No
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	SpaceAfter=No
 
 # sent_id = ch1_part2_sent3
@@ -241,7 +241,7 @@
 27	て	て	SCONJ	P.conj	_	25	mark	_	SpaceAfter=No
 28	、	、	PUNCT	Supsym.c	PunctType=Comm	25	punct	_	SpaceAfter=No
 29	寒苦鳥に	かんくてう	NOUN	N.c.g	Case=Equ	30	obl	_	SpaceAfter=No
-30	ことならず	ことなり	ADJ	Ai	Mood=Ind|Polarity=Neg|Polite=Infm	0	root	_	SpaceAfter=No
+30	ことならず	ことなり	ADJ	Ai	_	0	root	_	SpaceAfter=No
 31	。	。	PUNCT	Supsym.p	PunctType=Peri	30	punct	_	SpaceAfter=No
 
 # sent_id = 10
@@ -275,7 +275,7 @@
 # text_ger = 
 1	をりふし	をりふし	NOUN	N.c.adv	_	3	obl:tmod	_	SpaceAfter=No
 2	勢も	せい	NOUN	N.c.g	_	3	nsubj:contrast	_	SpaceAfter=No
-3	無りけり	なし	ADJ	Ai.bnd	Evident=Nfh|Mood=Ind|Polite=Infm|Tense=Past	0	root	_	SpaceAfter=No
+3	無りけり	なし	ADJ	Ai.bnd	Evident=Nfh|Tense=Past	0	root	_	SpaceAfter=No
 4	。	。	PUNCT	Supsym.p	PunctType=Peri	3	punct	_	SpaceAfter=No
 
 # sent_id = 13
