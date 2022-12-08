@@ -1,11 +1,11 @@
 # Summary
 
 
-UD_Old_Japanese-LMJ is a collection of annotated texts in Late Middle Japanese. The texts are being translated by SR, and are annotated by SR and FFG.
+UD_Old_Japanese-LMJ is a collection of annotated texts in Late Middle Japanese, starting with Book 9 from he celebrated gunki monogatari (war tale) *Heike Monogatari*.
 
 # Introduction
 
-UD_Old_Japanese-LMJ is a collection of annotated texts in Late Middle Japanese. The texts are being translated by SR, and are annotated by SR and FFG.
+The diachronic stage o Japanese captured by this treebank is Early Late Middle Japanese, i.e. the phase of the Late Middle Japanese before the arrival of the Portuguese sailors and missonaries.
 
 
 # Acknowledgments
@@ -19,21 +19,18 @@ UD_Old_Japanese-LMJ is a collection of annotated texts in Late Middle Japanese. 
 
 # Changelog
 
-* 2021-05-15 v2.8
-  * Initial release in Universal Dependencies.
-
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.8
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: nonfiction
-Lemmas: converted from manual
-UPOS: converted from manual
-XPOS: manual native
-Features: converted from manual
-Relations: converted from manual
+Genre: fiction
+Lemmas: manual annotation
+UPOS: manual annotation
+XPOS: manual annotation
+Features: manual annotation
+Relations: manual annotation
 Contributors: Reichert, Stanislav; Gerardi, Fabrício Ferraz
 Contributing: elsewhere
 Contact: fabricio.gerardi@uni-tuebingen.de
