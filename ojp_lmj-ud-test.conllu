@@ -497,7 +497,7 @@
 16	候へ	さうらふ	VERB	Aux	_	0	root	_	SpaceAfter=No
 17	。	。	PUNCT	Supsym.p	PunctType=Peri	16	punct	_	SpaceAfter=No
 
-#sent_id = 25-26
+# sent_id = 25-26
 # text = いまだ生て候と聞しめされ候はばさだめて先陣はしつらんものをとおぼしめされ候へ」とて、御前をまかり立つ。
 # text_ger = 
 1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	3	punct	_	SpaceAfter=No
@@ -526,7 +526,7 @@
 24	立つ	たつ	VERB	V.g	_	0	root	_	SpaceAfter=No
 25	。	。	PUNCT	Supsym.p	PunctType=Peri	24	punct	_	SpaceAfter=No
 
-#sent_id = 27
+# sent_id = 27
 # text = 参会したる大名小名みな「荒凉の申しやうかな」とつつやきあへり。
 # text_ger = 
 1	参会	さんくわい	NOUN	N.c.vs	_	5	acl	_	SpaceAfter=No
@@ -545,7 +545,7 @@
 14	あへり	あふ	VERB	V.g	_	0	root	_	SpaceAfter=No
 15	。	。	PUNCT	Supsym.p	PunctType=Peri	14	punct	_	SpaceAfter=No
 
-#sent_id = 28
+# sent_id = 28
 # text = おのおの鎌倉を立て、足柄をへてゆくもあり。
 # text_ger = 
 1	おのおの	おのおの	PRON	Pron	_	3	obl	_	SpaceAfter=No
@@ -553,14 +553,14 @@
 3	立	たつ	VERB	V.bnd	_	10	parataxis	_	SpaceAfter=No
 4	て	て	SCONJ	P.conj	_	3	mark	_	SpaceAfter=No
 5	、	、	PUNCT	Supsym.c	PunctType=Comm	3	punct	_	SpaceAfter=No
-6	足柄を	あしがら	PROPN	N.prop.p.g	NameType=Geo|Case=Acc	7	obl:lmod	_	SpaceAfter=No
+6	足柄を	あしがら	PROPN	N.prop.p.g	Case=Acc|NameType=Geo	7	obl:lmod	_	SpaceAfter=No
 7	へ	ふ	VERB	V.bnd	_	9	advcl	_	SpaceAfter=No
 8	て	て	SCONJ	P.conj	_	7	mark	_	SpaceAfter=No
 9	ゆくも	ゆく	VERB	V.g	_	10	csubj	_	SpaceAfter=No
 10	あり	あり	VERB	Aux	_	0	root	_	SpaceAfter=No
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	SpaceAfter=No
 
-#sent_id = 29
+# sent_id = 29
 # text = 箱根にかかる人もあり。
 # text_ger = 
 1	箱根に	はこね	PROPN	N.prop.p.g	NameType=Geo	2	obl:lmod	_	SpaceAfter=No
@@ -572,12 +572,12 @@
 # sent_id = 32
 # text = 黄覆輪の鞍おいて、こぶさの鞦懸け、白泡かませ、舎人あまたついたりけれども、なほ引きもためずおどらせて出できたり。
 # text_ger = 
-1	黄覆輪の	きぶくりん	NOUN	N.c.g	Case:Gen	2	nmod	_	SpaceAfter=No
+1	黄覆輪の	きぶくりん	NOUN	N.c.g	Case=Gen	2	nmod	_	SpaceAfter=No
 2	鞍	くら	NOUN	N.c.g	_	3	obj	_	SpaceAfter=No
 3	おい	おく	VERB	V.bnd	_	8	conj	_	SpaceAfter=No
 4	て	て	SCONJ	P.conj	_	3	mark	_	SpaceAfter=No
 5	、	、	PUNCT	Supsym.c	PunctType=Comm	3	punct	_	SpaceAfter=No
-6	こぶさの	こぶさ	NOUN	N.c.g	Case:Gen	7	nmod	_	SpaceAfter=No
+6	こぶさの	こぶさ	NOUN	N.c.g	Case=Gen	7	nmod	_	SpaceAfter=No
 7	鞦	しりがい	NOUN	N.c.g	_	8	obj	_	SpaceAfter=No
 8	懸け	かく	VERB	V.bnd	_	11	conj	_	SpaceAfter=No
 9	、	、	PUNCT	Supsym.c	PunctType=Comm	8	punct	_	SpaceAfter=No
@@ -599,7 +599,7 @@
 25	。	。	PUNCT	Supsym.p	PunctType=Peri	24	punct	_	SpaceAfter=No
 
 # sent_id = 33
-# text = 梶原源太うち寄って、「それは誰が御馬ぞ」。
+# text = 梶原源太うち寄って「それは誰が御馬ぞ」。
 # text_ger = 
 1	梶原	かぢはら	PROPN	N.prop.n.s	NameType=Sur	2	flat:name	_	SpaceAfter=No
 2	源太	げんだ	PROPN	N.prop.n.f	NameType=Giv	4	nsubj	_	SpaceAfter=No
@@ -676,7 +676,7 @@
 20	て	て	SCONJ	P.conj	_	19	mark	_	SpaceAfter=No
 21	こそ	こそ	PART	P.bind	_	19	discourse:sp	_	SpaceAfter=No
 22	待ち	まつ	VERB	V.g	_	23	compound:svc	_	SpaceAfter=No
-23	かけたれたれ	まちかく	VERB	_	_	0	root	_	SpaceAfter=No
+23	かけたれ	かく	VERB	_	_	0	root	_	SpaceAfter=No
 24	。	。	PUNCT	Supsym.p	PunctType=Peri	23	punct	_	SpaceAfter=No
 
 # sent_id = 40
@@ -723,7 +723,7 @@
 3	、	、	PUNCT	Supsym.c	PunctType=Comm	2	punct	_	SpaceAfter=No
 4	いけずき	いけずき	PROPN	N.prop.n.g	NameType=Oth	6	obj	_	SpaceAfter=No
 5	給はらせ	たまふ	VERB	V.g	_	6	compound:svc	_	SpaceAfter=No
-6	給っ	たまふ	VERB	Aux	_	0	root	_	SpaceAfter=No
+6	給	たまふ	VERB	Aux	_	0	root	_	SpaceAfter=No
 7	て	て	SCONJ	P.conj	_	6	mark	_	SpaceAfter=No
 8	さう	さう	AUX	Aux	_	6	aux	_	SpaceAfter=No
 9	な	な	PART	P.fin	_	6	discourse:sp	_	SpaceAfter=No
@@ -788,7 +788,7 @@
 
 # 宇治川先陣
 # sent_id = 49
-# text = 佐々木四郎が給はたる御馬は黒栗毛なる馬の究めてふとうたくましいが、馬をも人をもあたりをはらって食ければ、いけずきとつけられたり。
+# text = 佐々木四郎が給はたる御馬は黒栗毛なる馬の究めてふとうたくましいが馬をも人をもあたりをはらって食ければ、いけずきとつけられたり。
 # text_ger = 
 1	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	2	flat:name	_	SpaceAfter=No
 2	四郎が	しらう	PROPN	N.prop.n.f	NameType=Giv|Case=Nom	3	nsubj	_	SpaceAfter=No
@@ -893,7 +893,7 @@
 19	。	。	PUNCT	Supsym.p	PunctType=Peri	18	punct	_	SpaceAfter=No
 
 # sent_id = 57
-# text = ころは正月廿日あまりの事なれば、比良の高峯、志賀の山、昔ながらの雪も消え、谷々の氷うちとけて、水はをりふしまさりたり。
+# text = ころは正月廿日あまりの事なれば、比良の高峯志賀の山、昔ながらの雪も消え、谷々の氷うちとけて、水はをりふしまさりたり。
 # text_ger = 
 1	ころは	ころ	NOUN	N.c.g	_	6	nsubj	_	SpaceAfter=No
 2	正月	しゃうぐゎつ	NOUN	N.c.g	_	4	nmod	_	SpaceAfter=No
@@ -926,7 +926,7 @@
 
 
 # sent_id = 58
-# text = 白浪おびたたしうみなぎり落ち、せまくら大きに滝鳴って、逆卷く水もはやかりけり。
+# text = 白浪おびたたしうみなぎり落ち、せまくら大きに滝鳴って、さかまく水もはやかりけり。
 # text_ger = 
 1	白浪	はくらう	NOUN	N.c.g	_	4	nsubj	_	SpaceAfter=No
 2	おびたたしう	おびたたし	ADJ	Ai.g	_	4	advmod	_	SpaceAfter=No
@@ -945,7 +945,7 @@
 15	。	。	PUNCT	Supsym.p	PunctType=Peri	14	punct	_	SpaceAfter=No
 
 # sent_id = 59
-# text = 夜はすでにほのぼのとあけゆくけど、河霧ふかく立ちこめて、馬の毛も鎧の毛もさだかならず。
+# text = 夜はすでにほのぼのとあけゆけど、河霧ふかく立ちこめて、馬の毛も鎧の毛もさだかならず。
 # text_ger = 
 1	夜は	よ	NOUN	N.c.g	_	4	nsubj:situation	_	SpaceAfter=No
 2	すでに	すでに	ADV	Adv	AdvType=Tim	4	advmod	_	SpaceAfter=No
@@ -1121,7 +1121,7 @@
 19	。	。	PUNCT	Supsym.p	PunctType=Peri	18	punct	_	SpaceAfter=No
 
 # sent_id = 71
-# text = 佐々木四郎、この河は西国一の大河ぞや。
+# text = 佐々木四郎「この河は西国一の大河ぞや」。
 # text_ger = 
 1	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	2	flat:name	_	SpaceAfter=No
 2	四郎	しらう	PROPN	N.prop.n.f	NameType=Giv	0	root	_	SpaceAfter=No
@@ -1246,8 +1246,8 @@
 4	、	、	PUNCT	Supsym.c	PunctType=Comm	3	punct	_	SpaceAfter=No
 5	河中より	かはなか	NOUN	N.c.g	_	8	obl:lmod	_	SpaceAfter=No
 6	のためがたに	のためがた	NOUN	N.c.g	_	8	obl:agent	_	SpaceAfter=No
-7	押し	おす	VERB	V.g	_	8	compound:svc	_	SpaceAfter=No
-8	流され	ながす	VERB	V.bnd	_	14	advcl	_	SpaceAfter=No
+7	おし	おす	VERB	V.g	_	8	compound:svc	_	SpaceAfter=No
+8	なされ	ながす	VERB	V.bnd	_	14	advcl	_	SpaceAfter=No
 9	て	て	SCONJ	P.conj	_	8	mark	_	SpaceAfter=No
 10	、	、	PUNCT	Supsym.c	PunctType=Comm	8	punct	_	SpaceAfter=No
 11	はるかの	はるか	NOUN	Ana.g	_	12	nmod	_	SpaceAfter=No
@@ -1324,7 +1324,7 @@
 7	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	SpaceAfter=No
 
 # sent_id = 83
-# text = 向ひの岸より山田次郎が放つ矢に、畠山馬の額をのぶかに射させて、弱れば、河中より弓杖をついて下立たり。
+# text = 向ひの岸より山田次郎が放つ矢に、畠山馬の額をのぶかに射させて、弱れば、河中より弓杖をついて下り立たり。
 # text_ger = 
 1	向ひの	むかひ	NOUN	N.c.ana	_	2	nmod	_	SpaceAfter=No
 2	岸より	きし	NOUN	N.c.g	_	5	obl:lmod	_	SpaceAfter=No
@@ -1373,10 +1373,10 @@
 18	。	。	PUNCT	Supsym.p	PunctType=Peri	17	punct	_	SpaceAfter=No
 
 # sent_id = 85
-# text = あがらんとすれば、うしろに者こそむずと引へたれ。
+# text = あがらんとすればうしろに者こそむずと引へたれ。
 # text_ger = 
 1	あがらん	あがる	VERB	V.g	_	3	xcomp	_	SpaceAfter=No
-2	と	　と	PART	P.case	AdpType=Post	3	compound:prt	_	SpaceAfter=No
+2	と	と	PART	P.case	AdpType=Post	3	compound:prt	_	SpaceAfter=No
 3	すれ	す	VERB	V.g	_	8	advcl	_	SpaceAfter=No
 4	ば	ば	SCONJ	P.conj	_	3	mark	_	SpaceAfter=No
 5	うしろに	うしろ	NOUN	N.c.g	_	8	obj:lmod	_	SpaceAfter=No
