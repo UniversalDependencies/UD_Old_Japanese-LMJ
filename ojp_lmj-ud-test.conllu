@@ -39,7 +39,7 @@
 # sent_id = ch1_part1_sent4
 # text = たけき者も遂にほろびぬ、偏に風の前の塵に同じ。
 # text_ger = 
-1	たけき	たけし	ADJ	Ai	VerbForm=Adnom	2	acl	_	SpaceAfter=No
+1	たけき	たけし	ADJ	Ai	_	2	acl	_	SpaceAfter=No
 2	者も	もの	NOUN	N.c.g	Number=Coll	10	nsubj	_	SpaceAfter=No
 3	遂に	つひに	ADV	Adv	AdvType=Tim	4	advmod	_	SpaceAfter=No
 4	ほろびぬ	ほろぶ	VERB	V	Mood=Ind|Polite=Infm	10	advcl	_	SpaceAfter=No
