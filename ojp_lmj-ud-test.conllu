@@ -1,5 +1,5 @@
 # sentence_id = ch1_part1_sent1
-# text = 祇園精舎の鐘の声、諸行無常の響あり。
+# text = 祇園精舎の鐘の声 、 諸行無常の響あり 。
 # text_ger = 
 
 1	祇園精舎の	ぎをんしゃうじゃ	PROPN	N.prop.n.g	NameType=Geo|Case=Gen	2	nmod	_	_
@@ -12,7 +12,7 @@
 8	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	_
 
 # sentence_id = ch1_part1_sent2
-# text = 娑羅双樹の花の色、盛者必衰のことわりをあらはす。
+# text = 娑羅双樹の花の色 、 盛者必衰のことわりをあらはす 。
 # text_ger = 
 
 1	娑羅双樹の	しゃらさうじゅ	NOUN	N.c.g	Case=Gen	2	nmod	_	_
@@ -25,7 +25,7 @@
 8	。	。	PUNCT	Supsym.p	PunctType=Peri	7	punct	_	_
 
 # sentence_id = ch1_part1_sent3
-# text = おごれる人も久しからず、唯春の夜の夢のごとし。
+# text = おごれる人も久しからず 、 唯春の夜の夢のごとし 。
 # text_ger = 
 
 1	おごれる	おごる	VERB	V.g	VerbForm=Adnom	2	acl	_	_
@@ -40,7 +40,7 @@
 10	。	。	PUNCT	Supsym.p	PunctType=Peri	9	punct	_	_
 
 # sentence_id = ch1_part1_sent4
-# text = たけき者も遂にほろびぬ、偏に風の前の塵に同じ。
+# text = たけき者も遂にほろびぬ 、 偏に風の前の塵に同じ 。
 # text_ger = 
 
 1	たけき	たけし	ADJ	Ai.g	VerbForm=Adnom	2	acl	_	_
@@ -56,7 +56,7 @@
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	_
 
 # sentence_id = ch1_part2_sent3
-# text = 勧賞には闕国を給ふべき由仰下されける。
+# text = 勧賞には闕国を給ふべき由仰下されける 。
 # text_ger = 
 
 1	勧賞には	けんじゃう	NOUN	N.c.g	_	6	obl	_	_
@@ -68,7 +68,7 @@
 7	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	_
 
 # sentence_id = ch1_part2_sent4
-# text = をりふし但馬国のあきたりけるを給にけり。
+# text = をりふし但馬国のあきたりけるを給にけり 。
 # text_ger = 
 
 1	をりふし	をりふし	NOUN	N.c.adv	_	5	obl:tmod	_	_
@@ -79,7 +79,7 @@
 6	。	。	PUNCT	Supsym.p	PunctType=Peri	5	punct	_	_
 
 # sentence_id = ch1_part2_sent5
-# text = 上皇御感のあまりに内の昇殿をゆるさる。
+# text = 上皇御感のあまりに内の昇殿をゆるさる 。
 # text_ger = 
 
 1	上皇	しゃうくゎう	NOUN	_	_	6	nsubj	_	_
@@ -91,7 +91,7 @@
 7	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	_
 
 # sentence_id = ch1_part2_sent6
-# text = 忠盛三十六にて始て昇殿す。
+# text = 忠盛三十六にて始て昇殿す 。
 # text_ger = 
 
 1	忠盛	ただもり	PROPN	N.prop.n.f	NameType=Giv	5	nsubj	_	_
@@ -103,7 +103,7 @@
 7	。	。	PUNCT	Supsym.p	PunctType=Peri	5	punct	_	_
 
 # sentence_id = 1
-# text = 寿永三年正月一日、院の御所は大膳大夫業忠なりただが宿所、六条西洞院なれば御所のていしかるべからずとて礼儀おこなはるべきにあらねば拝礼もなし。
+# text = 寿永三年正月一日 、 院の御所は大膳大夫業忠なりただが宿所 、 六条西洞院なれば御所のていしかるべからずとて礼儀おこなはるべきにあらねば拝礼もなし 。
 # text_ger = 
 
 1	寿永	じゅえい	PROPN	N.c	NameType=Oth	3	nmod:poss	_	_
@@ -137,7 +137,7 @@
 29	。	。	PUNCT	Supsym.p	PunctType=Peri	28	punct	_	_
 
 # sentence_id = 2
-# text = 院の拝礼なかりければ内裏の小朝拝もおこなはれず。
+# text = 院の拝礼なかりければ内裏の小朝拝もおこなはれず 。
 # text_ger = 
 
 1	院の	ゐん	NOUN	N.c.g	Case=Gen	2	nmod	_	_
@@ -150,7 +150,7 @@
 8	。	。	PUNCT	Supsym.p	PunctType=Peri	7	punct	_	_
 
 # sentence_id = 3
-# text = 平家は讃岐国八島の磯におくりむかへて年のはじめなれども、元日元三の儀式事宜からず。
+# text = 平家は讃岐国八島の磯におくりむかへて年のはじめなれども 、 元日元三の儀式事宜からず 。
 # text_ger = 
 
 1	平家は	へいけ	PROPN	N.prop.n.s	NameType=Sur|Case=Nom	5	nsubj:situation	_	_
@@ -170,7 +170,7 @@
 15	。	。	PUNCT	Supsym.p	PunctType=Peri	14	punct	_	_
 
 # sentence_id = 4
-# text = しゅしゃうわたらせ給へども、節会も行はれず、四方拜もなし。
+# text = しゅしゃうわたらせ給へども 、 節会も行はれず 、 四方拜もなし 。
 # text_ger = 
 
 1	しゅしゃう	しゅしゃう	NOUN	N.c.g	_	3	nsubj	_	_
@@ -186,7 +186,7 @@
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	_
 
 # sentence_id = 5
-# text = はらかも奏せず。
+# text = はらかも奏せず 。
 # text_ger = 
 
 1	はらかも	はらか	NOUN	N.c.g	_	2	nsubj:contrast	_	_
@@ -194,7 +194,7 @@
 3	。	。	PUNCT	Supsym.p	PunctType=Peri	2	punct	_	_
 
 # sentence_id = 6
-# text = 吉野のくずも参らず。
+# text = 吉野のくずも参らず 。
 # text_ger = 
 
 1	吉野の	よしの	PROPN	N.prop.p.g	NameType=Geo|Case=Gen	2	nmod	_	_
@@ -203,7 +203,7 @@
 4	。	。	PUNCT	Supsym.p	PunctType=Peri	3	punct	_	_
 
 # sentence_id = 7
-# text = 「世乱れたりしかども、都にてはさすがかくは無りし者を」とぞおのおの宣ひあはれける。
+# text =  「 世乱れたりしかども 、 都にてはさすがかくは無りし者を 」 とぞおのおの宣ひあはれける 。
 # text_ger = 
 
 1	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	3	punct	_	_
@@ -225,7 +225,7 @@
 17	。	。	PUNCT	Supsym.p	PunctType=Peri	16	punct	_	_
 
 # sentence_id = 8
-# text = 青陽の春も来り、浦吹く風もやはらかに、日影ものどかになりゆけど、ただ平家の人々は、いつも氷に閉ぢこめられたる心地して、寒苦鳥に異ならず。
+# text = 青陽の春も来り 、 浦吹く風もやはらかに 、 日影ものどかになりゆけど 、 ただ平家の人々は 、 いつも氷に閉ぢこめられたる心地して 、 寒苦鳥に異ならず 。
 # text_ger = 
 
 1	青陽の	せいやう	NOUN	N.c.g	Case=Gen	2	nmod	_	_
@@ -261,7 +261,7 @@
 31	。	。	PUNCT	Supsym.p	PunctType=Peri	30	punct	_	_
 
 # sentence_id = 10
-# text = おなじき正月十一日、木曾左馬頭義仲院参して、平家追討のために西国へ発向すべきよし奏聞す。
+# text = おなじき正月十一日 、 木曾左馬頭義仲院参して 、 平家追討のために西国へ発向すべきよし奏聞す 。
 # text_ger = 
 
 1	おなじき	おなじき	ADJ	Ai.g	_	2	amod	_	_
@@ -288,7 +288,7 @@
 22	。	。	PUNCT	Supsym.p	PunctType=Peri	20	punct	_	_
 
 # sentence_id = 12
-# text = をりふし勢も無りけり。
+# text = をりふし勢も無りけり 。
 # text_ger = 
 
 1	をりふし	をりふし	NOUN	N.c.adv	_	3	obl:tmod	_	_
@@ -297,7 +297,7 @@
 4	。	。	PUNCT	Supsym.p	PunctType=Peri	3	punct	_	_
 
 # sentence_id = 13
-# text = 勢田の橋は大手なればとて、今井四郎兼平八百余騎で差しつかはす。
+# text = 勢田の橋は大手なればとて 、 今井四郎兼平八百余騎で差しつかはす 。
 # text_ger = 
 
 1	勢田の	せた	PROPN	N.prop.p.g	NameType=Geo|Case=Gen	2	nmod	_	_
@@ -318,7 +318,7 @@
 16	。	。	PUNCT	Supsym.p	PunctType=Peri	15	punct	_	_
 
 # sentence_id = 14
-# text = 宇治橋へは、仁科、高梨、山田次郎、五百余騎でつかはす。
+# text = 宇治橋へは 、 仁科 、 高梨 、 山田次郎 、 五百余騎でつかはす 。
 # text_ger =
 
 1	宇治橋へは	うぢばし	PROPN	N.prop.g	NameType=Geo|Case=All	11	obl:focus	_	_
@@ -335,7 +335,7 @@
 12	。	。	PUNCT	Supsym.p	PunctType=Peri	11	punct	_	_
 
 # sentence_id = 15
-# text = いもあらひへは伯父の志田三郎先生義憲三百余騎で向ひけり。
+# text = いもあらひへは伯父の志田三郎先生義憲三百余騎で向ひけり 。
 # text_ger = 
 
 1	いもあらひへは	いもあらひ	PROPN	N.prop.p.g	NameType=Geo|Case=All	10	obl:focus	_	_
@@ -351,7 +351,7 @@
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	_
 
 # sentence_id = 16
-# text = 東国よりせめ上る大手の大将軍は、蒲の御曹司範頼、搦手の大将軍は九郎御曹司義経、むねとの大名三十余人、都合その勢六万余騎とぞ聞えし。
+# text = 東国よりせめ上る大手の大将軍は 、 蒲の御曹司範頼 、 搦手の大将軍は九郎御曹司義経 、 むねとの大名三十余人 、 都合その勢六万余騎とぞ聞えし 。
 # text_ger = 
 
 1	東国より	ひがしくに	NOUN	N.c.g	Case=Abl	3	obl:lmod	_	_
@@ -388,7 +388,7 @@
 32	。	。	PUNCT	Supsym.p	PunctType=Peri	31	punct	_	_
 
 # sentence_id = 17
-# text = そのころ鎌倉殿にいけずき、するすみといふ名馬あり。
+# text = そのころ鎌倉殿にいけずき 、 するすみといふ名馬あり 。
 # text_ger = 
 
 1	その	その	DET	Pron	_	2	det	_	_
@@ -404,7 +404,7 @@
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	_
 
 # sentence_id = 18
-# text = いけずきをば梶原源太景季しきりに望み申けれども、鎌倉殿「自然の事のあらん時、もののぐして頼朝がのるべき馬なり」。
+# text = いけずきをば梶原源太景季しきりに望み申けれども 、 鎌倉殿 「 自然の事のあらん時 、 もののぐして頼朝がのるべき馬なり 」  。
 # text_ger = 
 
 1	いけずきをば	いけずき	PROPN	N.prop.n.g	NameType=Oth	7	obj:situation	_	_
@@ -434,7 +434,7 @@
 25	。	。	PUNCT	Supsym.p	PunctType=Peri	22	punct	_	_
 
 # sentence_id = 19
-# text = 「するすみもおとらぬ名馬ぞ」とて、梶原にはするすみをこそたうだりけれ。
+# text =  「 するすみもおとらぬ名馬ぞ 」 とて 、 梶原にはするすみをこそたうだりけれ 。
 # text_ger = 
 
 1	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	2	punct	_	_
@@ -452,7 +452,7 @@
 13	。	。	PUNCT	Supsym.p	PunctType=Peri	12	punct	_	_
 
 # sentence_id = 21-22
-# text = 佐々木四郎高綱がいとま申しに参たりけるに「鎌倉殿いかがおぼしめされけん、所望の者はいくらもあれども存知せよ」とて、いけずきを佐々木に給ぶ。
+# text = 佐々木四郎高綱がいとま申しに参たりけるに 「 鎌倉殿いかがおぼしめされけん 、 所望の者はいくらもあれども存知せよ 」 とて 、 いけずきを佐々木に給ぶ 。
 # text_ger = 
 
 1	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	3	flat:name	_	_
@@ -483,7 +483,7 @@
 26	。	。	PUNCT	Supsym.p	PunctType=Peri	25	punct	_	_
 
 # sentence_id = 23
-# text = 佐々木畏って申しけるは「高綱この御馬で宇治河のまっさき渡し候べし」。
+# text = 佐々木畏って申しけるは 「 高綱この御馬で宇治河のまっさき渡し候べし 」  。
 # text_ger = 
 
 1	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	4	nsubj	_	_
@@ -503,7 +503,7 @@
 15	。	。	PUNCT	Supsym.p	PunctType=Peri	13	punct	_	_
 
 # sentence_id = 24
-# text = 宇治川で死にて候ときこしめし候はば人に先をせられてげりとおぼしめし候へ。
+# text = 宇治川で死にて候ときこしめし候はば人に先をせられてげりとおぼしめし候へ 。
 # text_ger = 
 
 1	宇治川で	うぢがは	PROPN	N.prop.g	NameType=Geo|Case=Loc	2	obl:lmod	_	_
@@ -525,7 +525,7 @@
 17	。	。	PUNCT	Supsym.p	PunctType=Peri	16	punct	_	_
 
 #sentence_id = 25-26
-# text = いまだ生て候と聞しめされ候はばさだめて先陣はしつらんものをとおぼしめされ候へ」とて、御前をまかり立つ。
+# text = いまだ生て候と聞しめされ候はばさだめて先陣はしつらんものをとおぼしめされ候へ 」 とて 、 御前をまかり立つ 。
 # text_ger = 
 
 1	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	3	punct	_	_
@@ -555,7 +555,7 @@
 25	。	。	PUNCT	Supsym.p	PunctType=Peri	24	punct	_	_
 
 #sentence_id = 27
-# text = 参会したる大名小名みな「荒凉の申しやうかな」とつつやきあへり。
+# text = 参会したる大名小名みな 「 荒凉の申しやうかな 」 とつつやきあへり 。
 # text_ger = 
 
 1	参会	さんくわい	NOUN	N.c.vs	_	5	acl	_	_
@@ -575,7 +575,7 @@
 15	。	。	PUNCT	Supsym.p	PunctType=Peri	14	punct	_	_
 
 #sentence_id = 28
-# text = おのおの鎌倉を立て、足柄をへてゆくもあり。
+# text = おのおの鎌倉を立て 、 足柄をへてゆくもあり 。
 # text_ger = 
 
 1	おのおの	おのおの	PRON	Pron	_	3	obl	_	_
@@ -591,7 +591,7 @@
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	_
 
 #sentence_id = 29
-# text = 箱根にかかる人もあり。
+# text = 箱根にかかる人もあり 。
 # text_ger = 
 
 1	箱根に	はこね	PROPN	N.prop.p.g	NameType=Geo	2	obl:lmod	_	_
@@ -601,7 +601,7 @@
 5	。	。	PUNCT	Supsym.p	PunctType=Peri	4	punct	_	_
 
 # sentence_id = 32
-# text = 黄覆輪の鞍おいて、こぶさの鞦懸け、白泡かませ、舎人あまたついたりけれども、なほ引きもためずおどらせて出できたり。
+# text = 黄覆輪の鞍おいて 、 こぶさの鞦懸け 、 白泡かませ 、 舎人あまたついたりけれども 、 なほ引きもためずおどらせて出できたり 。
 # text_ger = 
 
 1	黄覆輪の	きぶくりん	NOUN	N.c.g	Case:Gen	2	nmod	_	_
@@ -631,7 +631,7 @@
 25	。	。	PUNCT	Supsym.p	PunctType=Peri	24	punct	_	_
 
 # sentence_id = 33
-# text = 梶原源太うち寄って、「それは誰が御馬ぞ」。
+# text = 梶原源太うち寄って 、  「 それは誰が御馬ぞ 」  。
 # text_ger = 
 
 1	梶原	かぢはら	PROPN	N.prop.n.s	NameType=Sur	2	flat:name	_	_
@@ -648,7 +648,7 @@
 12	。	。	PUNCT	Supsym.p	PunctType=Peri	9	punct	_	_
 
 # sentence_id = 34
-# text = 佐々木殿の御馬候。
+# text = 佐々木殿の御馬候 。
 # text_ger = 
 
 1	佐々木殿の	ささきどの	NOUN	N.prop.n.s	Case=Gen	2	nmod	_	_
@@ -657,7 +657,7 @@
 4	。	。	PUNCT	Supsym.p	PunctType=Peri	2	punct	_	_
 
 # sentence_id = 35
-# text = その時梶原「安からぬものなり」。
+# text = その時梶原 「 安からぬものなり 」  。
 # text_ger = 
 
 1	その	その	DET	Pron	_	2	det	_	_
@@ -671,7 +671,7 @@
 9	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	_
 
 # sentence_id = 36
-# text = おなじやうにめしつかはるる景季を佐々木におぼしめしかへられけるこそ遺恨なれ。
+# text = おなじやうにめしつかはるる景季を佐々木におぼしめしかへられけるこそ遺恨なれ 。
 # text_ger = 
 
 1	おなじ	おなじ	ADJ	Ai.g	_	2	compound	_	_
@@ -688,7 +688,7 @@
 12	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	_
 
 # sentence_id = 38-39
-# text = ここで佐々木にひっくみ刺し違へ、よい侍二人死で、兵衞佐殿に損とらせ奉らむとつつやいてこそ待ちかけたれ。
+# text = ここで佐々木にひっくみ刺し違へ 、 よい侍二人死で 、 兵衞佐殿に損とらせ奉らむとつつやいてこそ待ちかけたれ 。
 # text_ger = 
 
 1	ここで	ここ	ADV	Pron	AdvType=Loc	6	obl:lmod	_	_
@@ -717,7 +717,7 @@
 24	。	。	PUNCT	Supsym.p	PunctType=Peri	23	punct	_	_
 
 # sentence_id = 40
-# text = 佐々木四郎は何心もなく歩せて出で来たり。
+# text = 佐々木四郎は何心もなく歩せて出で来たり 。
 # text_ger = 
 
 1	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	2	flat:name	_	_
@@ -731,7 +731,7 @@
 9	。	。	PUNCT	Supsym.p	PunctType=Peri	8	punct	_	_
 
 # sentence_id = 41
-# text = 梶原、おしならべてやくむ、向かうさまにやあて落すと思ひけるが、まづ詞をかけけり。
+# text = 梶原 、 おしならべてやくむ 、 向かうさまにやあて落すと思ひけるが 、 まづ詞をかけけり 。
 # text_ger = 
 
 1	梶原	かぢはら	PROPN	N.prop.n.s	NameType=Sur	18	nsubj	_	_
@@ -755,7 +755,7 @@
 19	。	。	PUNCT	Supsym.p	PunctType=Peri	18	punct	_	_
 
 # sentence_id = 42
-# text = いかに佐々木殿、いけずき給はらせ給てさうな。
+# text = いかに佐々木殿 、 いけずき給はらせ給てさうな 。
 # text_ger = 
 
 1	いかに	いかに	INTJ	Adv	_	6	discourse	_	_
@@ -770,7 +770,7 @@
 10	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	_
 
 # sentence_id = 45
-# text = この御大事にのぼり候が、定めて宇治、勢田の橋をばひいて候らん。
+# text = この御大事にのぼり候が 、 定めて宇治 、 勢田の橋をばひいて候らん 。
 # text_ger = 
 
 1	この	この	DET	Pron	_	2	det	_	_
@@ -790,7 +790,7 @@
 15	。	。	PUNCT	Supsym.p	PunctType=Peri	12	punct	_	_
 
 # sentence_id = 46
-# text = 乗って河渡すべき馬はなし。
+# text = 乗って河渡すべき馬はなし 。
 # text_ger = 
 
 1	乗っ	のる	VERB	V.bnd	_	4	advcl	_	_
@@ -802,7 +802,7 @@
 7	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	_
 
 # sentence_id = 48
-# text = と言ひければ、梶原この詞に腹がゐて「ねたいさらば景季もぬすむべかりけるものを」とてどっと笑ってのきにけり。
+# text = と言ひければ 、 梶原この詞に腹がゐて 「 ねたいさらば景季もぬすむべかりけるものを 」 とてどっと笑ってのきにけり 。
 # text_ger = 
 
 1	と	と	ADP	P.case	AdpType=Post	2	compound:prt	_	_
@@ -831,7 +831,7 @@
 
 # 宇治川先陣
 # sentence_id = 49
-# text = 佐々木四郎が給はたる御馬は黒栗毛なる馬の究めてふとうたくましいが、馬をも人をもあたりをはらって食ければ、いけずきとつけられたり。
+# text = 佐々木四郎が給はたる御馬は黒栗毛なる馬の究めてふとうたくましいが 、 馬をも人をもあたりをはらって食ければ 、 いけずきとつけられたり 。
 # text_ger = 
 
 1	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	2	flat:name	_	_
@@ -860,7 +860,7 @@
 24	。	。	PUNCT	Supsym.p	PunctType=Peri	23	punct	_	_
 
 # sentence_id = 50 # real 50
-# text = 八寸の馬とぞ聞えし。
+# text = 八寸の馬とぞ聞えし 。
 # text_ger = 
 
 1	八	はち	NUM	N.num	_	2	nummod	_	_
@@ -872,7 +872,7 @@
 7	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	_
 
 # sentence_id = 51
-# text = 梶原が給はたるするすみも究めてふとうたくましきが、まことに黒かりければ、するすみとつけられたり。
+# text = 梶原が給はたるするすみも究めてふとうたくましきが 、 まことに黒かりければ 、 するすみとつけられたり 。
 # text_ger = 
 
 1	梶原が	かぢはら	PROPN	N.prop.n.s	NameType=Sur|Case=Nom	2	nsubj	_	_
@@ -893,7 +893,7 @@
 16	。	。	PUNCT	Supsym.p	PunctType=Peri	15	punct	_	_
 
 # sentence_id = 52
-# text = いづれも劣らぬ名馬なり。
+# text = いづれも劣らぬ名馬なり 。
 # text_ger = 
 
 1	いづれも	いづれも	PRON	Pron	PronType=Tot	3	nsubj	_	_
@@ -903,7 +903,7 @@
 5	。	。	PUNCT	Supsym.p	PunctType=Peri	3	punct	_	_
 
 # sentence_id = 53
-# text = 尾張国より大手、搦手二手にわかってせめ上る。
+# text = 尾張国より大手 、 搦手二手にわかってせめ上る 。
 # text_ger = 
 
 1	尾張国より	をはりのくに	PROPN	N.prop.p.g	NameType=Geo	9	obl:lmod	_	_
@@ -918,7 +918,7 @@
 10	。	。	PUNCT	Supsym.p	PunctType=Peri	9	punct	_	_
 
 # sentence_id = 56
-# text = 宇治も勢田も橋を引き、水の底には乱杭打って大綱張り、逆茂木つないで流しかけたり。
+# text = 宇治も勢田も橋を引き 、 水の底には乱杭打って大綱張り 、 逆茂木つないで流しかけたり 。
 # text_ger = 
 
 1	宇治も	うぢ	PROPN	N.prop.p.g	NameType=Geo	2	conj	_	_
@@ -942,7 +942,7 @@
 19	。	。	PUNCT	Supsym.p	PunctType=Peri	18	punct	_	_
 
 # sentence_id = 57
-# text = ころは正月廿日あまりの事なれば、比良の高峯、志賀の山、昔ながらの雪も消え、谷々の氷うちとけて、水はをりふしまさりたり。
+# text = ころは正月廿日あまりの事なれば 、 比良の高峯 、 志賀の山 、 昔ながらの雪も消え 、 谷々の氷うちとけて 、 水はをりふしまさりたり 。
 # text_ger = 
 
 1	ころは	ころ	NOUN	N.c.g	_	6	nsubj	_	_
@@ -976,7 +976,7 @@
 
 
 # sentence_id = 58
-# text = 白浪おびたたしうみなぎり落ち、せまくら大きに滝鳴って、逆卷く水もはやかりけり。
+# text = 白浪おびたたしうみなぎり落ち 、 せまくら大きに滝鳴って 、 逆卷く水もはやかりけり 。
 # text_ger = 
 
 1	白浪	はくらう	NOUN	N.c.g	_	4	nsubj	_	_
@@ -996,7 +996,7 @@
 15	。	。	PUNCT	Supsym.p	PunctType=Peri	14	punct	_	_
 
 # sentence_id = 59
-# text = 夜はすでにほのぼのとあけゆくけど、河霧ふかく立ちこめて、馬の毛も鎧の毛もさだかならず。
+# text = 夜はすでにほのぼのとあけゆくけど 、 河霧ふかく立ちこめて 、 馬の毛も鎧の毛もさだかならず 。
 # text_ger = 
 
 1	夜は	よ	NOUN	N.c.g	_	4	nsubj:situation	_	_
@@ -1020,7 +1020,7 @@
 19	。	。	PUNCT	Supsym.p	PunctType=Peri	17	punct	_	_
 
 # sentence_id = 60
-# text = ここに大将軍九郎御曹司、河の端に進み出で、水のおもてを見渡して人々の心を見んとや思はれけん。
+# text = ここに大将軍九郎御曹司 、 河の端に進み出で 、 水のおもてを見渡して人々の心を見んとや思はれけん 。
 # text_ger = 
 
 1	ここに	ここ	DET	Pron	_	22	obl:tmod	_	_
@@ -1048,7 +1048,7 @@
 23	。	。	PUNCT	Supsym.p	PunctType=Peri	22	punct	_	_
 
 # sentence_id = 61
-# text = いかがせむ、淀いもあらひへや回るべき、水のおちあしをやまつべき。
+# text = いかがせむ 、 淀いもあらひへや回るべき 、 水のおちあしをやまつべき 。
 # text_ger = 
 
 1	いかが	いかが	ADV	Adv	AdvType=Man	2	advmod	_	_
@@ -1066,7 +1066,7 @@
 13	。	。	PUNCT	Supsym.p	PunctType=Peri	12	punct	_	_
 
 # sentence_id = 63
-# text = 鎌倉にてよくよくこの河の御沙汰は候ひしぞかし。
+# text = 鎌倉にてよくよくこの河の御沙汰は候ひしぞかし 。
 # text_ger = 
 
 1	鎌倉にて	かまくら	PROPN	N.prop.p.g	NameType=Geo	6	obl:lmod	_	_
@@ -1079,7 +1079,7 @@
 8	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	_
 
 # sentence_id = 64
-# text = しろしめさぬ海河のにはかに出きても候はばこそ。
+# text = しろしめさぬ海河のにはかに出きても候はばこそ 。
 # text_ger = 
 
 1	しろしめさぬ	しろしめす	VERB	V.g	_	2	acl	_	_
@@ -1093,7 +1093,7 @@
 9	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	_
 
 # sentence_id = 65
-# text = この河は近江の水海の末なれば、待つとも待つとも水ひまじ。
+# text = この河は近江の水海の末なれば 、 待つとも待つとも水ひまじ 。
 # text_ger = 
 
 1	この	この	DET	Pron	_	2	det	_	_
@@ -1113,7 +1113,7 @@
 15	。	。	PUNCT	Supsym.p	PunctType=Peri	14	punct	_	_
 
 # sentence_id = 66
-# text = 橋をばまた誰か渡いて参らすべき。
+# text = 橋をばまた誰か渡いて参らすべき 。
 # text_ger = 
 
 1	橋をば	はし	NOUN	N.c.g	Case=Acc	6	obj	_	_
@@ -1125,7 +1125,7 @@
 7	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	_
 
 # sentence_id = 67
-# text = 治承の合戦に、足利また太郎忠綱は鬼神でわたしけるか。
+# text = 治承の合戦に 、 足利また太郎忠綱は鬼神でわたしけるか 。
 # text_ger = 
 
 1	治承の	ぢじよう	PROPN	N.prop.g	NameType=Oth|Case=Gen	2	nmod	_	_
@@ -1140,7 +1140,7 @@
 10	。	。	PUNCT	Supsym.p	PunctType=Peri	8	punct	_	_
 
 # sentence_id = 69
-# text = 一騎は梶原源太景季、一騎は佐々木四郎高綱なり。
+# text = 一騎は梶原源太景季 、 一騎は佐々木四郎高綱なり 。
 # text_ger = 
 
 1	一	いち	NUM	N.num	_	2	nummod	_	_
@@ -1158,7 +1158,7 @@
 13	。	。	PUNCT	Supsym.p	PunctType=Peri	11	punct	_	_
 
 # sentence_id = 70
-# text = 人目には何とも見えざりけれども、内々は先に心をかけたりければ、梶原は佐々木に一段ばかりぞ進だる。
+# text = 人目には何とも見えざりけれども 、 内々は先に心をかけたりければ 、 梶原は佐々木に一段ばかりぞ進だる 。
 # text_ger = 
 
 1	人目には	ひとめ	NOUN	N.c.g	_	3	obl	_	_
@@ -1182,7 +1182,7 @@
 19	。	。	PUNCT	Supsym.p	PunctType=Peri	18	punct	_	_
 
 # sentence_id = 71
-# text = 佐々木四郎、この河は西国一の大河ぞや。
+# text = 佐々木四郎 、 この河は西国一の大河ぞや 。
 # text_ger = 
 
 1	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	2	flat:name	_	_
@@ -1199,7 +1199,7 @@
 12	。	。	PUNCT	Supsym.p	PunctType=Peri	8	punct	_	_
 
 # sentence_id = 72
-# text = 腹帶の延て見えさうは。
+# text = 腹帶の延て見えさうは 。
 # text_ger = 
 
 1	腹帶の	はるび	NOUN	N.c.g	_	3	nsubj	_	_
@@ -1210,7 +1210,7 @@
 6	。	。	PUNCT	Supsym.p	PunctType=Peri	3	punct	_	_
 
 # sentence_id = 73
-# text = 「しめ給へ」と言はれて梶原さもあるらんとや思ひけん、左右の鐙を踏みすかし、手綱を馬のゆがみに捨て、腹帶をといてぞしめたりける。
+# text =  「 しめ給へ 」 と言はれて梶原さもあるらんとや思ひけん 、 左右の鐙を踏みすかし 、 手綱を馬のゆがみに捨て 、 腹帶をといてぞしめたりける 。
 # text_ger = 
 
 1	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	3	punct	_	_
@@ -1246,7 +1246,7 @@
 31	。	。	PUNCT	Supsym.p	PunctType=Peri	30	punct	_	_
 
 # sentence_id = 74
-# text = その間に佐々木はつっとはせぬいて、河へざっとぞ打入たる。
+# text = その間に佐々木はつっとはせぬいて 、 河へざっとぞ打入たる 。
 # text_ger = 
 
 1	その	その	DET	Pron	_	2	det	_	_
@@ -1263,7 +1263,7 @@
 12	。	。	PUNCT	Supsym.p	PunctType=Peri	11	punct	_	_
 
 # sentence_id = 75
-# text = 梶原たばかられぬとや思ひけん、やがてつづいて打入たり。
+# text = 梶原たばかられぬとや思ひけん 、 やがてつづいて打入たり 。
 # text_ger = 
 
 1	梶原	かぢはら	PROPN	N.prop.n.s	NameType=Sur	10	nsubj	_	_
@@ -1279,7 +1279,7 @@
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	_
 
 # sentence_id = 76
-# text = いかに佐々木殿、高名せうとて不覚し給ふな。
+# text = いかに佐々木殿 、 高名せうとて不覚し給ふな 。
 # text_ger =
 
 1	いかに	いかに	INTJ	Adv	_	7	discourse	_	_
@@ -1295,7 +1295,7 @@
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	7	punct	_	_
 
 # sentence_id = 77
-# text = 水の底には大綱あるらん。
+# text = 水の底には大綱あるらん 。
 # text_ger = 
 
 1	水の	みづ	NOUN	N.c.g	Case=Gen	2	nmod	_	_
@@ -1305,7 +1305,7 @@
 5	。	。	PUNCT	Supsym.p	PunctType=Peri	4	punct	_	_
 
 # sentence_id = 79
-# text = 梶原が乗たりけるするすみは、河中よりのためがたににおしなされて、はるかの下より打上げたり。
+# text = 梶原が乗たりけるするすみは 、 河中よりのためがたににおしなされて 、 はるかの下より打上げたり 。
 # text_ger = 
 
 1	梶原が	かぢはら	PROPN	N.prop.n.s	NameType=Sur|Case=Nom	2	nsubj	_	_
@@ -1325,7 +1325,7 @@
 15	。	。	PUNCT	Supsym.p	PunctType=Peri	14	punct	_	_
 
 # sentence_id = 80
-# text = 佐々木あぶみふばりたち上り、大音声を揚て名乗りけるは「宇多天皇より九代の後胤、佐々木三郎秀義が四男、佐々木四郎高綱、宇治川の先陣ぞや」。
+# text = 佐々木あぶみふばりたち上り 、 大音声を揚て名乗りけるは 「 宇多天皇より九代の後胤 、 佐々木三郎秀義が四男 、 佐々木四郎高綱 、 宇治川の先陣ぞや 」  。
 # text_ger = 
 
 1	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	10	nsubj	_	_
@@ -1364,7 +1364,7 @@
 34	。	。	PUNCT	Supsym.p	PunctType=Peri	30	punct	_	_
 
 # sentence_id = 81
-# text = 「われと思はん人々は高綱にくめや」とておめいてかく。
+# text =  「 われと思はん人々は高綱にくめや 」 とておめいてかく 。
 # text_ger = 
 
 1	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	7	punct	_	_
@@ -1383,7 +1383,7 @@
 14	。	。	PUNCT	Supsym.p	PunctType=Peri	13	punct	_	_
 
 # sentence_id = 82
-# text = 畠山五百余騎でやがて渡す。
+# text = 畠山五百余騎でやがて渡す 。
 # text_ger = 
 
 1	畠山	はたけやま	PROPN	N.prop.n.s	NameType=Sur	6	nsubj	_	_
@@ -1395,7 +1395,7 @@
 7	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	_
 
 # sentence_id = 83
-# text = 向ひの岸より山田次郎が放つ矢に、畠山馬の額をのぶかに射させて、弱れば、河中より弓杖をついて下立たり。
+# text = 向ひの岸より山田次郎が放つ矢に 、 畠山馬の額をのぶかに射させて 、 弱れば 、 河中より弓杖をついて下立たり 。
 # text_ger = 
 
 1	向ひの	むかひ	NOUN	N.c.ana	_	2	nmod	_	_
@@ -1423,7 +1423,7 @@
 23	。	。	PUNCT	Supsym.p	PunctType=Peri	22	punct	_	_
 
 # sentence_id = 84
-# text = 岩浪甲の手先へざっと押上げけれども、事ともせず水の底をくくって、向ひの岸へぞつきにける。
+# text = 岩浪甲の手先へざっと押上げけれども 、 事ともせず水の底をくくって 、 向ひの岸へぞつきにける 。
 # text_ger = 
 
 1	岩浪	いはなみ	NOUN	N.c.g	_	6	nsubj	_	_
@@ -1446,7 +1446,7 @@
 18	。	。	PUNCT	Supsym.p	PunctType=Peri	17	punct	_	_
 
 # sentence_id = 85
-# text = あがらんとすれば、うしろに者こそむずと引へたれ。
+# text = あがらんとすれば 、 うしろに者こそむずと引へたれ 。
 # text_ger = 
 
 1	あがらん	あがる	VERB	V.g	_	3	xcomp	_	_
@@ -1460,7 +1460,7 @@
 9	。	。	PUNCT	Supsym.p	PunctType=Peri	8	punct	_	_
 
 # sentence_id = 86
-# text = 「たそ」と問へば、「重親」と答ふ。
+# text =  「 たそ 」 と問へば 、  「 重親 」 と答ふ 。
 # text_ger = 
 
 1	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	2	punct	_	_
@@ -1479,7 +1479,7 @@
 14	。	。	PUNCT	Supsym.p	PunctType=Peri	13	punct	_	_
 
 # sentence_id = 87
-# text = 「いかに大串か」「さ候」
+# text =  「 いかに大串か 」  「 さ候 」 
 # text_ger = 
 
 1	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	3	punct	_	_
@@ -1493,7 +1493,7 @@
 9	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	8	punct	_	_
 
 # sentence_id = 88
-# text = 大串次郎は畠山にはえぼしごにてぞありける。
+# text = 大串次郎は畠山にはえぼしごにてぞありける 。
 # text_ger = 
 
 1	大串	おほしく	PROPN	N.prop.n.s	NameType=Sur	2	flat:name	_	_
@@ -1504,7 +1504,7 @@
 6	。	。	PUNCT	Supsym.p	PunctType=Peri	5	punct	_	_
 
 # sentence_id = 89
-# text = あまりに水がはやうて、 馬は押流され候ひぬ。
+# text = あまりに水がはやうて 、  馬は押流され候ひぬ 。
 # text_ger = 
 
 1	あまりに	あまりに	ADV	Adv	AdvType=Deg	3	advmod	_	_
@@ -1519,7 +1519,7 @@
 10	。	。	PUNCT	Supsym.p	PunctType=Peri	9	punct	_	_
 
 # sentence_id = 90
-# text = 「力及ばでつき参らせて候」と言ひければ「いつもわどのばらは重忠が樣なる者にこそ助られむずれ」といふままに、大串をひきさげて岸の上へぞ投げ上たる。
+# text =  「 力及ばでつき参らせて候 」 と言ひければ 「 いつもわどのばらは重忠が樣なる者にこそ助られむずれ 」 といふままに 、 大串をひきさげて岸の上へぞ投げ上たる 。
 # text_ger = 
 
 1	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	5	punct	_	_
@@ -1557,7 +1557,7 @@
 33	。	。	PUNCT	Supsym.p	PunctType=Peri	32	punct	_	_
 
 # sentence_id = 92
-# text = 投げ上られ、ただなほって「武藏国の住人、大串次郎重親、宇治河の先陣ぞや」とぞ名乗たる。
+# text = 投げ上られ 、 ただなほって 「 武藏国の住人 、 大串次郎重親 、 宇治河の先陣ぞや 」 とぞ名乗たる 。
 # text_ger = 
 
 1	投げ	なぐ	VERB	V.g	_	2	compound:svc	_	_
@@ -1585,7 +1585,7 @@
 23	。	。	PUNCT	Supsym.p	PunctType=Peri	22	punct	_	_
 
 # sentence_id = 93
-# text = 敵も御方もこれを聞いて、一度にどっとぞ笑ひける。
+# text = 敵も御方もこれを聞いて 、 一度にどっとぞ笑ひける 。
 # text_ger = 
 
 1	敵も	かたき	NOUN	N.c.g	_	2	conj	_	_
@@ -1602,7 +1602,7 @@
 12	。	。	PUNCT	Supsym.p	PunctType=Peri	11	punct	_	_
 
 # sentence_id = 94
-# text = そののち畠山乗りがへに乗って打上る。
+# text = そののち畠山乗りがへに乗って打上る 。
 # text_ger = 
 
 1	その	その	DET	Pron	_	2	det	_	_
@@ -1616,7 +1616,7 @@
 9	。	。	PUNCT	Supsym.p	PunctType=Peri	8	punct	_	_
 
 # sentence_id = 95
-# text = 魚綾の直垂に緋威の鎧着て、連錢葦毛なる馬に黄覆輪の鞍置て乗たる敵の、まっさきに進だるを。
+# text = 魚綾の直垂に緋威の鎧着て 、 連錢葦毛なる馬に黄覆輪の鞍置て乗たる敵の 、 まっさきに進だるを 。
 # text_ger = 
 
 1	魚綾の	ぎょりょう	NOUN	N.c.g	_	2	nmod	_	_
@@ -1641,7 +1641,7 @@
 20	。	。	PUNCT	Supsym.p	PunctType=Peri	18	punct	_	_
 
 # sentence_id = 96
-# text = 「ここにかくるはいかなる人ぞ名乗れや」と言ひければ「木曾殿の家の子に、長瀬判官代重綱」と名乗る。
+# text =  「 ここにかくるはいかなる人ぞ名乗れや 」 と言ひければ 「 木曾殿の家の子に 、 長瀬判官代重綱 」 と名乗る 。
 # text_ger = 
 
 1	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	7	punct	_	_
@@ -1670,7 +1670,7 @@
 24	。	。	PUNCT	Supsym.p	PunctType=Peri	23	punct	_	_
 
 # sentence_id = 98
-# text = 畠山「今日の軍神いははん」とて、押しならべてむずと捕って引き落し、頸ねぢ切て、本田二郎が鞍のとりつけにこそつけさせけれ。
+# text = 畠山 「 今日の軍神いははん 」 とて 、 押しならべてむずと捕って引き落し 、 頸ねぢ切て 、 本田二郎が鞍のとりつけにこそつけさせけれ 。
 # text_ger = 
 
 1	畠山	はたけやま	PROPN	N.prop.n.s	NameType=Sur	26	nsubj	_	_
@@ -1702,7 +1702,7 @@
 27	。	。	PUNCT	Supsym.p	PunctType=Peri	26	punct	_	_
 
 # sentence_id = 99
-# text = これを始て、木曾殿の方より宇治橋かためたる勢ども、しばしささへてふせぎけれども、東国の大勢みな渡いてせめければ、散散にかけなされ、木幡山伏見をさいてぞおち行きける。
+# text = これを始て 、 木曾殿の方より宇治橋かためたる勢ども 、 しばしささへてふせぎけれども 、 東国の大勢みな渡いてせめければ 、 散散にかけなされ 、 木幡山伏見をさいてぞおち行きける 。
 # text_ger = 
 
 1	これを	これ	DET	Pron	Case=Acc	2	obj	_	_
@@ -1742,7 +1742,7 @@
 35	。	。	PUNCT	Supsym.p	PunctType=Peri	34	punct	_	_
 
 # sentence_id = 100
-# text = 勢田をば稲毛三郎重成がはからひにて、田上供御の瀬をこそ渡しけれ。
+# text = 勢田をば稲毛三郎重成がはからひにて 、 田上供御の瀬をこそ渡しけれ 。
 # text_ger = 
 
 1	勢田をば	せた	PROPN	N.prop.p.g	NameType=Geo	10	nsubj	_	_
