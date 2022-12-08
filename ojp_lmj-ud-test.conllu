@@ -1702,7 +1702,7 @@
 27	。	。	PUNCT	Supsym.p	PunctType=Peri	26	punct	_	_
 
 # sentence_id = 99
-# text = これを始て 、 木曾殿の方より宇治橋かためたる勢ども 、 しばしささへてふせぎけれども 、 東国の大勢みな渡いてせめければ 、 散散にかけなされ 、 木幡山伏見をさいてぞおち行きける 。
+# text = これを始て、 木曾殿の方より宇治橋かためたる勢ども、 しばしささへてふせぎけれども、 東国の大勢みな渡いてせめければ、 散散にかけなされ、 木幡山伏見をさいてぞおち行きける 。
 # text_ger = 
 
 1	これを	これ	DET	Pron	Case=Acc	2	obj	_	_
@@ -1729,11 +1729,11 @@
 22	せめけれ	せむ	VERB	V.bnd	_	26	advcl	_	_
 23	ば	ば	SCONJ	P.conj	_	22	mark	_	_
 24	、	、	PUNCT	Supsym.c	PunctType=Comm	22	punct	_	_
-25	散散に	さんざん	NOUN	N.c.g	_	26	advmod	_	_
+25	散散に	さんざん	ADV	N.c.g	_	26	advmod	_	_
 26	かけなされ	かく	VERB	V.g	_	30	advcl	_	_
 27	、	、	PUNCT	Supsym.c	PunctType=Comm	26	punct	_	_
-28	木幡山	こはたやま	PROPN	N.prop.p.g	NameType=Geo	29	conj	_	_
-29	伏見を	ふしみ	PROPN	N.prop.p.g	NameType=Geo	30	obl:lmod	_	_
+28	木幡山	こはたやま	PROPN	N.prop.p.g	NameType=Geo	29	obl:lmod	_	_
+29	伏見を	ふしみ	PROPN	N.prop.p.g	NameType=Geo	30	conj	_	_
 30	さい	さく	VERB	V.bnd	_	34	advcl	_	_
 31	て	て	SCONJ	P.conj	_	30	mark	_	_
 32	ぞ	ぞ	PART	P.bind	_	34	discourse:sp	_	_
