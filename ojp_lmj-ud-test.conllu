@@ -189,7 +189,7 @@
 4	。	。	PUNCT	Supsym.p	PunctType=Peri	3	punct	_	SpaceAfter=No
 
 # sent_id = 7
-# text =  「 世乱れたりしかども、都にてはさすがかくは無りし者を 」 とぞおのおの宣ひあはれける。
+# text = 「世乱れたりしかども、都にてはさすがかくは無りし者を」とぞおのおの宣ひあはれける。
 # text_ger = 
 1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	3	punct	_	SpaceAfter=No
 2	世	よ	NOUN	N.c.g	_	3	nsubj	_	SpaceAfter=No
@@ -382,7 +382,7 @@
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	SpaceAfter=No
 
 # sent_id = 18
-# text = いけずきをば梶原源太景季しきりに望み申けれども、鎌倉殿 「 自然の事のあらん時、もののぐして頼朝がのるべき馬なり 」 。
+# text = いけずきをば梶原源太景季しきりに望み申けれども、鎌倉殿「自然の事のあらん時、もののぐして頼朝がのるべき馬なり」。
 # text_ger = 
 1	いけずきをば	いけずき	PROPN	N.prop.n.g	NameType=Oth	7	obj:situation	_	SpaceAfter=No
 2	梶原	かぢはら	PROPN	N.prop.n.s	NameType=Sur	4	flat:name	_	SpaceAfter=No
@@ -411,7 +411,7 @@
 25	。	。	PUNCT	Supsym.p	PunctType=Peri	22	punct	_	SpaceAfter=No
 
 # sent_id = 19
-# text =  「 するすみもおとらぬ名馬ぞ 」 とて、梶原にはするすみをこそたうだりけれ。
+# text = 「するすみもおとらぬ名馬ぞ」とて、梶原にはするすみをこそたうだりけれ。
 # text_ger = 
 1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	2	punct	_	SpaceAfter=No
 2	するすみも	するすみ	PROPN	N.prop.n.g	NameType=Oth	4	nsubj	_	SpaceAfter=No
@@ -428,7 +428,7 @@
 13	。	。	PUNCT	Supsym.p	PunctType=Peri	12	punct	_	SpaceAfter=No
 
 # sent_id = 21-22
-# text = 佐々木四郎高綱がいとま申しに参たりけるに 「 鎌倉殿いかがおぼしめされけん、所望の者はいくらもあれども存知せよ 」 とて、いけずきを佐々木に給ぶ。
+# text = 佐々木四郎高綱がいとま申しに参たりけるに「鎌倉殿いかがおぼしめされけん、所望の者はいくらもあれども存知せよ」とて、いけずきを佐々木に給ぶ。
 # text_ger = 
 1	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	3	flat:name	_	SpaceAfter=No
 2	四郎	しらう	PROPN	N.prop.n.f	NameType=Giv	3	flat:name	_	SpaceAfter=No
@@ -458,7 +458,7 @@
 26	。	。	PUNCT	Supsym.p	PunctType=Peri	25	punct	_	SpaceAfter=No
 
 # sent_id = 23
-# text = 佐々木畏って申しけるは 「 高綱この御馬で宇治河のまっさき渡し候べし 」 。
+# text = 佐々木畏って申しけるは「高綱この御馬で宇治河のまっさき渡し候べし」。
 # text_ger = 
 1	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	4	nsubj	_	SpaceAfter=No
 2	畏っ	かしこまる	VERB	V.bnd	_	4	advcl	_	SpaceAfter=No
@@ -498,7 +498,7 @@
 17	。	。	PUNCT	Supsym.p	PunctType=Peri	16	punct	_	SpaceAfter=No
 
 #sent_id = 25-26
-# text = いまだ生て候と聞しめされ候はばさだめて先陣はしつらんものをとおぼしめされ候へ 」 とて、御前をまかり立つ。
+# text = いまだ生て候と聞しめされ候はばさだめて先陣はしつらんものをとおぼしめされ候へ」とて、御前をまかり立つ。
 # text_ger = 
 1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	3	punct	_	SpaceAfter=No
 2	いまだ	いまだ	ADV	Adv	AdvType=Tim	3	advmod	_	SpaceAfter=No
@@ -527,7 +527,7 @@
 25	。	。	PUNCT	Supsym.p	PunctType=Peri	24	punct	_	SpaceAfter=No
 
 #sent_id = 27
-# text = 参会したる大名小名みな 「 荒凉の申しやうかな 」 とつつやきあへり。
+# text = 参会したる大名小名みな「荒凉の申しやうかな」とつつやきあへり。
 # text_ger = 
 1	参会	さんくわい	NOUN	N.c.vs	_	5	acl	_	SpaceAfter=No
 2	したる	す	AUX	V.bnd	_	1	compound:lvc	_	SpaceAfter=No
@@ -599,7 +599,7 @@
 25	。	。	PUNCT	Supsym.p	PunctType=Peri	24	punct	_	SpaceAfter=No
 
 # sent_id = 33
-# text = 梶原源太うち寄って、 「 それは誰が御馬ぞ 」 。
+# text = 梶原源太うち寄って、「それは誰が御馬ぞ」。
 # text_ger = 
 1	梶原	かぢはら	PROPN	N.prop.n.s	NameType=Sur	2	flat:name	_	SpaceAfter=No
 2	源太	げんだ	PROPN	N.prop.n.f	NameType=Giv	4	nsubj	_	SpaceAfter=No
@@ -623,7 +623,7 @@
 4	。	。	PUNCT	Supsym.p	PunctType=Peri	2	punct	_	SpaceAfter=No
 
 # sent_id = 35
-# text = その時梶原 「 安からぬものなり 」 。
+# text = その時梶原「安からぬものなり」。
 # text_ger = 
 1	その	その	DET	Pron	_	2	det	_	SpaceAfter=No
 2	時	とき	NOUN	N.c.g	_	3	obl:tmod	_	SpaceAfter=No
@@ -760,7 +760,7 @@
 7	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	SpaceAfter=No
 
 # sent_id = 48
-# text = と言ひければ、梶原この詞に腹がゐて 「 ねたいさらば景季もぬすむべかりけるものを 」 とてどっと笑ってのきにけり。
+# text = と言ひければ、梶原この詞に腹がゐて「ねたいさらば景季もぬすむべかりけるものを」とてどっと笑ってのきにけり。
 # text_ger = 
 1	と	と	ADP	P.case	AdpType=Post	2	compound:prt	_	SpaceAfter=No
 2	言ひけれ	いふ	VERB	V.bnd	_	22	advcl	_	SpaceAfter=No
@@ -1147,7 +1147,7 @@
 6	。	。	PUNCT	Supsym.p	PunctType=Peri	3	punct	_	SpaceAfter=No
 
 # sent_id = 73
-# text =  「 しめ給へ 」 と言はれて梶原さもあるらんとや思ひけん、左右の鐙を踏みすかし、手綱を馬のゆがみに捨て、腹帶をといてぞしめたりける。
+# text = 「しめ給へ」と言はれて梶原さもあるらんとや思ひけん、左右の鐙を踏みすかし、手綱を馬のゆがみに捨て、腹帶をといてぞしめたりける。
 # text_ger = 
 1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	3	punct	_	SpaceAfter=No
 2	しめ	しむ	VERB	V.bnd	_	3	compound:svc	_	SpaceAfter=No
@@ -1257,7 +1257,7 @@
 15	。	。	PUNCT	Supsym.p	PunctType=Peri	14	punct	_	SpaceAfter=No
 
 # sent_id = 80
-# text = 佐々木あぶみふばりたち上り、大音声を揚て名乗りけるは 「 宇多天皇より九代の後胤、佐々木三郎秀義が四男、佐々木四郎高綱、宇治川の先陣ぞや 」 。
+# text = 佐々木あぶみふばりたち上り、大音声を揚て名乗りけるは「宇多天皇より九代の後胤、佐々木三郎秀義が四男、佐々木四郎高綱、宇治川の先陣ぞや」。
 # text_ger = 
 1	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	10	nsubj	_	SpaceAfter=No
 2	あぶみ	あぶみ	NOUN	N.c.g	_	5	obj	_	SpaceAfter=No
@@ -1295,7 +1295,7 @@
 34	。	。	PUNCT	Supsym.p	PunctType=Peri	30	punct	_	SpaceAfter=No
 
 # sent_id = 81
-# text =  「 われと思はん人々は高綱にくめや 」 とておめいてかく。
+# text = 「われと思はん人々は高綱にくめや」とておめいてかく。
 # text_ger = 
 1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	7	punct	_	SpaceAfter=No
 2	われ	われ	PRON	Pron	_	4	ccomp	_	SpaceAfter=No
@@ -1386,7 +1386,7 @@
 9	。	。	PUNCT	Supsym.p	PunctType=Peri	8	punct	_	SpaceAfter=No
 
 # sent_id = 86
-# text =  「 たそ 」 と問へば、 「 重親 」 と答ふ。
+# text = 「たそ」と問へば、「重親」と答ふ。
 # text_ger = 
 1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	2	punct	_	SpaceAfter=No
 2	た	た	PRON	Pron	_	6	ccomp	_	SpaceAfter=No
@@ -1404,7 +1404,7 @@
 14	。	。	PUNCT	Supsym.p	PunctType=Peri	13	punct	_	SpaceAfter=No
 
 # sent_id = 87
-# text =  「 いかに大串か 」  「 さ候 」 
+# text = 「いかに大串か」「さ候」
 # text_ger = 
 1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	3	punct	_	SpaceAfter=No
 2	いかに	いかに	INTJ	Adv	_	3	discourse	_	SpaceAfter=No
@@ -1441,7 +1441,7 @@
 10	。	。	PUNCT	Supsym.p	PunctType=Peri	9	punct	_	SpaceAfter=No
 
 # sent_id = 90
-# text =  「 力及ばでつき参らせて候 」 と言ひければ 「 いつもわどのばらは重忠が樣なる者にこそ助られむずれ 」 といふままに、大串をひきさげて岸の上へぞ投げ上たる。
+# text = 「力及ばでつき参らせて候」と言ひければ「いつもわどのばらは重忠が樣なる者にこそ助られむずれ」といふままに、大串をひきさげて岸の上へぞ投げ上たる。
 # text_ger = 
 1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	5	punct	_	SpaceAfter=No
 2	力	ちから	NOUN	N.c.g	_	3	obj	_	SpaceAfter=No
@@ -1478,7 +1478,7 @@
 33	。	。	PUNCT	Supsym.p	PunctType=Peri	32	punct	_	SpaceAfter=No
 
 # sent_id = 92
-# text = 投げ上られ、ただなほって 「 武藏国の住人、大串次郎重親、宇治河の先陣ぞや 」 とぞ名乗たる。
+# text = 投げ上られ、ただなほって「武藏国の住人、大串次郎重親、宇治河の先陣ぞや」とぞ名乗たる。
 # text_ger = 
 1	投げ	なぐ	VERB	V.g	_	2	compound:svc	_	SpaceAfter=No
 2	上られ	なげあげる	VERB	V.g	_	5	advcl	_	SpaceAfter=No
@@ -1558,7 +1558,7 @@
 20	。	。	PUNCT	Supsym.p	PunctType=Peri	18	punct	_	SpaceAfter=No
 
 # sent_id = 96
-# text =  「 ここにかくるはいかなる人ぞ名乗れや 」 と言ひければ 「 木曾殿の家の子に、長瀬判官代重綱 」 と名乗る。
+# text = 「ここにかくるはいかなる人ぞ名乗れや」と言ひければ「木曾殿の家の子に、長瀬判官代重綱」と名乗る。
 # text_ger = 
 1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	7	punct	_	SpaceAfter=No
 2	ここに	ここ	DET	Pron	Case=Loc	3	obl:lmod	_	SpaceAfter=No
@@ -1586,7 +1586,7 @@
 24	。	。	PUNCT	Supsym.p	PunctType=Peri	23	punct	_	SpaceAfter=No
 
 # sent_id = 98
-# text = 畠山 「 今日の軍神いははん 」 とて、押しならべてむずと捕って引き落し、頸ねぢ切て、本田二郎が鞍のとりつけにこそつけさせけれ。
+# text = 畠山「今日の軍神いははん」とて、押しならべてむずと捕って引き落し、頸ねぢ切て、本田二郎が鞍のとりつけにこそつけさせけれ。
 # text_ger = 
 1	畠山	はたけやま	PROPN	N.prop.n.s	NameType=Sur	26	nsubj	_	SpaceAfter=No
 2	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	5	punct	_	SpaceAfter=No
