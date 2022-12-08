@@ -1427,7 +1427,7 @@
 6	。	。	PUNCT	Supsym.p	PunctType=Peri	5	punct	_	SpaceAfter=No
 
 # sent_id = 89
-# text = あまりに水がはやうて、 馬は押流され候ひぬ。
+# text = あまりに水がはやうて、馬は押流され候ひぬ。
 # text_ger = 
 1	あまりに	あまりに	ADV	Adv	AdvType=Deg	3	advmod	_	SpaceAfter=No
 2	水が	みづ	NOUN	N.c.g	_	3	nsubj	_	SpaceAfter=No
