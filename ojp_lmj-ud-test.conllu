@@ -52,7 +52,7 @@
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	SpaceAfter=No
 
 # sent_id = ch1_part2_sent3
-# text = 勧賞には闕国を給ふべき由仰下されける。
+# text = 勧賞には闕国を給ふべき由仰せ下されける。
 # text_ger = 
 1	勧賞には	けんじゃう	NOUN	N.c.g	_	6	obl	_	SpaceAfter=No
 2	闕国を	けっこく	NOUN	N.c.g	Case=Acc	3	obj	_	SpaceAfter=No
@@ -67,7 +67,7 @@
 # text_ger = 
 1	をりふし	をりふし	NOUN	N.c.adv	_	5	obl:tmod	_	SpaceAfter=No
 2	但馬国の	たじまのくに	PROPN	N.prop.n.g	Case=Nom|NameType=Geo	3	nsubj	_	SpaceAfter=No
-3	あきたりける	あく	VERB	V	Tense=Past|Evident=Nfh|Mood=Ind|Polite=Infm|VerbForm=Fin	5	advcl	_	SpaceAfter=No
+3	あきたりける	あく	VERB	V	Evident=Nfh|Mood=Ind|Polite=Infm|Tense=Past|VerbForm=Fin	5	advcl	_	SpaceAfter=No
 4	を	を	SCONJ	P.conj	_	3	mark	_	SpaceAfter=No
 5	給にけり	たまふ	VERB	V	Evident=Nfh|Mood=Ind|Polite=Elev|Tense=Past	0	root	_	SpaceAfter=No
 6	。	。	PUNCT	Supsym.p	PunctType=Peri	5	punct	_	SpaceAfter=No
@@ -90,8 +90,8 @@
 2	三十六	さんじゅうろく	NUM	N.num	NumType=Card	3	obl	_	SpaceAfter=No
 3	にて	にて	VERB	V	_	5	advcl	_	SpaceAfter=No
 4	始て	はじめて	ADV	Adv	AdvType=Tim	5	advmod	_	SpaceAfter=No
-5	昇殿	しょうでん	NOUN	N.c.vs	Mood=Ind|Polite=Infm|Voice=Act	0	root	_	SpaceAfter=No
-6	す	す	AUX	Aux	VerbType=Light	5	compound:lvc	_	SpaceAfter=No
+5	昇殿	しょうでん	NOUN	N.c.vs	_	0	root	_	SpaceAfter=No
+6	す	す	AUX	Aux	Mood=Ind|Polite=Infm|VerbType=Light|Voice=Act	5	compound:lvc	_	SpaceAfter=No
 7	。	。	PUNCT	Supsym.p	PunctType=Peri	5	punct	_	SpaceAfter=No
 
 # sent_id = 1
@@ -112,7 +112,7 @@
 13	宿所	しゅくしょ	NOUN	N.c	_	15	appos	_	SpaceAfter=No
 14	、	、	PUNCT	Supsym.c	PunctType=Comm	15	punct	_	SpaceAfter=No
 15	六条西洞院	ろくじょうにしのとういん	PROPN	N.prop.p.g.	NameType=Geo	20	advcl	_	SpaceAfter=No
-16	なれ	なれ	VERB	VerbType=Aux	_	15	cop	_	SpaceAfter=No
+16	なれ	なれ	AUX	Aux VerbType=Aux	15	cop	_	SpaceAfter=No
 17	ば	ば	SCONJ	P.conj	_	15	mark	_	SpaceAfter=No
 18	御所の	ごしょ	NOUN	N.c	Case=Gen	19	nmod	_	SpaceAfter=No
 19	てい	てい	NOUN	N.c	_	20	nsubj	_	SpaceAfter=No
@@ -150,8 +150,8 @@
 6	て	て	SCONJ	_	_	5	mark	_	SpaceAfter=No
 7	年の	とし	NOUN	N.c.g	Case=Gen	8	nmod	_	SpaceAfter=No
 8	はじめ	はじめ	NOUN	N.c.adv	_	14	advcl	_	SpaceAfter=No
-9	なれ	なり	VERB	Aux	VerbType=Aux	8	cop	_	SpaceAfter=No
-10	ども	ども	SCONJ	P.conj	_	9	mark	_	SpaceAfter=No
+9	なれ	なり	AUX	Aux	VerbType=Aux	8	cop	_	SpaceAfter=No
+10	ども	ども	SCONJ	P.conj	_	8	mark	_	SpaceAfter=No
 11	、	、	PUNCT	Supsym.c	PunctType=Comm	9	punct	_	SpaceAfter=No
 12	元日元三の	ぐゎんにちぐゎんざん	NOUN	_	Case=Gen	13	nmod	_	SpaceAfter=No
 13	儀式	ぎしき	NOUN	N.c.g	_	14	nsubj	_	SpaceAfter=No
@@ -191,7 +191,7 @@
 # sent_id = 7
 # text = 「世乱れたりしかども、都にてはさすがかくは無りしものを」とぞおのおの宣ひあはれける。
 # text_ger = 
-1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	3	punct	_	SpaceAfter=No
+1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	9	punct	_	SpaceAfter=No
 2	世	よ	NOUN	N.c.g	_	3	nsubj	_	SpaceAfter=No
 3	乱れたりしか	_みだる	VERB	V	_	9	advcl	_	SpaceAfter=No
 4	ども	ども	SCONJ	P.conj	_	3	mark	_	SpaceAfter=No
@@ -199,11 +199,11 @@
 6	都にては	みやこ	NOUN	N.c.g	Case=Loc	9	obl:contrast	_	SpaceAfter=No
 7	さすが	さすが	ADV	Adv	AdvType=Deg	8	advmod	_	SpaceAfter=No
 8	かくは	かく	ADV	Adv	AdvType=Man	9	advmod	_	SpaceAfter=No
-9	無りし	なし	ADJ	Ai.bnd	_	12	ccomp	_	SpaceAfter=No
+9	無りし	なし	ADJ	Ai	_	12	ccomp	_	SpaceAfter=No
 10	ものを	ものを	SCONJ	P.conj	_	9	mark	_	SpaceAfter=No
 11	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	9	punct	_	SpaceAfter=No
-12	と	と	VERB	P.case	_	16	aux	_	SpaceAfter=No
-13	ぞ	ぞ	PART	P.bind	PartType=Emp	12	discourse:sp	_	SpaceAfter=No
+12	と	と	PART	P.case	_	16	compound:prt	_	SpaceAfter=No
+13	ぞ	ぞ	PART	P.bind	PartType=Emp	16	discourse:sp	_	SpaceAfter=No
 14	おのおの	おのおの	PRON	N.c.adv	PronType=Tot	16	nsubj	_	SpaceAfter=No
 15	宣ひ	のたまふ	VERB	V	Polite=Elev	16	compound:svc	_	SpaceAfter=No
 16	あはれける	あはす	VERB	Aux	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
@@ -774,7 +774,7 @@
 10	て	て	SCONJ	P.conj	_	9	mark	_	SpaceAfter=No
 11	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	15	punct	_	SpaceAfter=No
 12	ねたい	ねたし	ADJ	Ai	_	15	parataxis	_	SpaceAfter=No
-13	さらば	さらば	SCONJ	P.conj	AdvType=Man	15	mark	_	SpaceAfter=No
+13	さらば	さらば	SCONJ	P.conj	_	15	mark	_	SpaceAfter=No
 14	景季も	かげすゑ	PROPN	N.prop.n.f	NameType=Giv	15	nsubj	_	SpaceAfter=No
 15	ぬすむべかりける	ぬすむ	VERB	V	_	18	ccomp	_	SpaceAfter=No
 16	ものを	ものを	SCONJ	P.conj	_	15	mark	_	SpaceAfter=No
@@ -830,7 +830,7 @@
 # text_ger = 
 1	梶原が	かぢはら	PROPN	N.prop.n.s	Case=Nom|NameType=Sur	2	nsubj	_	SpaceAfter=No
 2	給はたる	たまふ	VERB	V	_	3	acl	_	SpaceAfter=No
-3	するすみも	するすみ	VERB	N.prop.n.g	NameType=Oth	15	nsubj:pass	_	SpaceAfter=No
+3	するすみも	するすみ	NOUN	N.prop.n.g	NameType=Oth	15	nsubj:pass	_	SpaceAfter=No
 4	究めて	きはめて	ADV	Adv	AdvType=Deg	5	advmod	_	SpaceAfter=No
 5	ふとう	ふとし	ADJ	Ai	_	6	conj	_	SpaceAfter=No
 6	たくましき	たくまし	ADJ	Ai	_	10	conj	_	SpaceAfter=No
@@ -922,7 +922,6 @@
 26	をりふし	をりふし	NOUN	N.c.g	_	27	obl:tmod	_	SpaceAfter=No
 27	まさりたり	まさる	VERB	V	_	0	root	_	SpaceAfter=No
 28	。	。	PUNCT	Supsym.p	PunctType=Peri	27	punct	_	SpaceAfter=No
-
 
 # sent_id = 58
 # text = 白浪おびたたしうみなぎり落ち、せまくら大きに滝鳴って、さかまく水もはやかりけり。
@@ -1044,7 +1043,7 @@
 4	水海の	みづうみ	NOUN	N.c.g	Case=Gen	5	nmod	_	SpaceAfter=No
 5	末	すゑ	NOUN	N.c.g	_	14	advcl	_	SpaceAfter=No
 6	なれ	なり	VERB	Aux	_	5	cop	_	SpaceAfter=No
-7	ば	ば	SCONJ	P.conj	_	6	mark	_	SpaceAfter=No
+7	ば	ば	SCONJ	P.conj	_	5	mark	_	SpaceAfter=No
 8	、	、	PUNCT	Supsym.c	PunctType=Comm	6	punct	_	SpaceAfter=No
 9	待つ	まつ	VERB	V	_	11	conj	_	SpaceAfter=No
 10	とも	とも	CCONJ	P.conj	_	9	mark	_	SpaceAfter=No
@@ -1068,7 +1067,7 @@
 # sent_id = 67
 # text = 治承の合戦に、足利また太郎忠綱は鬼神でわたしけるか。
 # text_ger = 
-1	治承の	ぢじよう	PROPN	N.prop.g	NameType=Oth|Case=Gen	2	nmod	_	SpaceAfter=No
+1	治承の	ぢじよう	PROPN	N.prop.g	Case=Gen|NameType=Oth	2	nmod	_	SpaceAfter=No
 2	合戦に	かっせん	NOUN	N.c.g	_	8	obl:lmod	_	SpaceAfter=No
 3	、	、	PUNCT	Supsym.c	PunctType=Comm	2	punct	_	SpaceAfter=No
 4	足利	あしかがの	PROPN	N.prop.n.s	NameType=Sur	6	flat:name	_	SpaceAfter=No
@@ -1115,7 +1114,7 @@
 14	一	いち	NUM	N.num	_	15	nummod	_	SpaceAfter=No
 15	段	だん	NOUN	N.c.count	_	18	obl	_	SpaceAfter=No
 16	ばかり	ばかり	ADV	P.adv	AdvType=Deg	15	advmod	_	SpaceAfter=No
-17	ぞ	ぞ	PART	P.bind	PartType=Emph	18	discourse:sp	_	SpaceAfter=No
+17	ぞ	ぞ	PART	P.bind	PartType=Emp	18	discourse:sp	_	SpaceAfter=No
 18	進だる	すすむ	VERB	V	_	0	root	_	SpaceAfter=No
 19	。	。	PUNCT	Supsym.p	PunctType=Peri	18	punct	_	SpaceAfter=No
 
