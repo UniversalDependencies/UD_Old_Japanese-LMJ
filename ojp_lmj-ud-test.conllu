@@ -201,7 +201,7 @@
 8	かくは	かく	ADV	Adv	AdvType=Man	9	advmod	_	SpaceAfter=No
 9	無りし	なし	ADJ	Ai.bnd	_	12	ccomp	_	SpaceAfter=No
 10	ものを	ものを	SCONJ	P.conj	_	9	mark	_	SpaceAfter=No
-11	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	9	punct	_	SpaceAfter=No
+11	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	9	punct	_	SpaceAfter=No
 12	と	と	VERB	P.case	_	16	aux	_	SpaceAfter=No
 13	ぞ	ぞ	PART	P.bind	PartType=Emp	12	discourse:sp	_	SpaceAfter=No
 14	おのおの	おのおの	PRON	N.c.adv	PronType=Tot	16	nsubj	_	SpaceAfter=No
@@ -407,7 +407,7 @@
 21	のるべき	のる	VERB	V.g	_	22	acl	_	SpaceAfter=No
 22	馬	うま	NOUN	N.c.g	_	10	ccomp	_	SpaceAfter=No
 23	なり	なり	AUX	Aux	VerbType=Cop	22	cop	_	SpaceAfter=No
-24	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	22	punct	_	SpaceAfter=No
+24	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	22	punct	_	SpaceAfter=No
 25	。	。	PUNCT	Supsym.p	PunctType=Peri	22	punct	_	SpaceAfter=No
 
 # sentence_id = 19
@@ -418,7 +418,7 @@
 3	おとらぬ	おとる	VERB	V.g	Polarity=Neg	4	acl	_	SpaceAfter=No
 4	名馬	めいば	NOUN	N.c.g	_	7	ccomp	_	SpaceAfter=No
 5	ぞ	ぞ	PART	P.bind	PartType=Emp	4	discourse:sp	_	SpaceAfter=No
-6	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	4	punct	_	SpaceAfter=No
+6	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	4	punct	_	SpaceAfter=No
 7	とて	とて	VERB	V.bnd	_	12	advcl	_	SpaceAfter=No
 8	、	、	PUNCT	Supsym.c	PunctType=Comm	7	punct	_	SpaceAfter=No
 9	梶原には	かぢはら	PROPN	N.prop.n.f	NameType=Sur	12	iobj:situation	_	SpaceAfter=No
@@ -449,7 +449,7 @@
 17	ども	ども	SCONJ	P.bind	_	16	mark	_	SpaceAfter=No
 18	存知	ぞんぢ	NOUN	N.c.g	_	21	ccomp	_	SpaceAfter=No
 19	せよ	す	AUX	V.bnd	_	18	compound:lvc	_	SpaceAfter=No
-20	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	18	punct	_	SpaceAfter=No
+20	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	18	punct	_	SpaceAfter=No
 21	とて	とて	VERB	V.bnd	_	25	advcl	_	SpaceAfter=No
 22	、	、	PUNCT	Supsym.c	PunctType=Comm	21	punct	_	SpaceAfter=No
 23	いけずきを	いけずき	PROPN	N.prop.n.g	NameType=Oth|Case=Acc	25	obj	_	SpaceAfter=No
@@ -473,7 +473,7 @@
 11	まっさき	まっさき	NOUN	N.c.g	_	13	obl:lmod	_	SpaceAfter=No
 12	渡し	わたす	VERB	V.g	_	13	compound:svc	_	SpaceAfter=No
 13	候べし	さう	VERB	Aux	_	4	ccomp	_	SpaceAfter=No
-14	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	13	punct	_	SpaceAfter=No
+14	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	13	punct	_	SpaceAfter=No
 15	。	。	PUNCT	Supsym.p	PunctType=Peri	13	punct	_	SpaceAfter=No
 
 # sentence_id = 24
@@ -518,7 +518,7 @@
 16	おぼし	おぼす	VERB	P.case	_	17	compound:svc	_	SpaceAfter=No
 17	めされ	めす	VERB	V.g	_	18	compound:svc	_	SpaceAfter=No
 18	候へ	さうらふ	VERB	Aux	_	20	ccomp	_	SpaceAfter=No
-19	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	18	punct	_	SpaceAfter=No
+19	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	18	punct	_	SpaceAfter=No
 20	とて	とて	VERB	V.g	_	24	advcl	_	SpaceAfter=No
 21	、	、	PUNCT	Supsym.c	PunctType=Comm	20	punct	_	SpaceAfter=No
 22	御前を	おんまへ	NOUN	N.c.g	Case=Acc	24	obj	_	SpaceAfter=No
@@ -539,7 +539,7 @@
 8	申し	まうす	VERB	V.bnd	_	9	compound	_	SpaceAfter=No
 9	やう	やう	NOUN	Suff.n.g	_	13	ccomp	_	SpaceAfter=No
 10	かな	かな	PART	P.fin	_	9	discourse:sp	_	SpaceAfter=No
-11	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	9	punct	_	SpaceAfter=No
+11	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	9	punct	_	SpaceAfter=No
 12	と	と	PART	P.case	AdpType=Post	13	compound:prt	_	SpaceAfter=No
 13	つつやき	つつやく	VERB	V.g	_	14	compound:svc	_	SpaceAfter=No
 14	あへり	あふ	VERB	V.g	_	0	root	_	SpaceAfter=No
@@ -611,7 +611,7 @@
 8	誰が	た	PRON	Pron	Case=Gen	9	nmod	_	SpaceAfter=No
 9	御馬	おんま	NOUN	N.c.g	_	4	ccomp	_	SpaceAfter=No
 10	ぞ	ぞ	PART	P.bind	_	9	discourse:sp	_	SpaceAfter=No
-11	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	9	punct	_	SpaceAfter=No
+11	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	9	punct	_	SpaceAfter=No
 12	。	。	PUNCT	Supsym.p	PunctType=Peri	9	punct	_	SpaceAfter=No
 
 # sentence_id = 34
@@ -632,7 +632,7 @@
 5	安からぬ	やすし	ADJ	Ai.g	_	6	acl	_	SpaceAfter=No
 6	もの	もの	NOUN	N.c.g	_	3	ccomp	_	SpaceAfter=No
 7	なり	なり	AUX	Aux	_	6	cop	_	SpaceAfter=No
-8	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	6	punct	_	SpaceAfter=No
+8	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	6	punct	_	SpaceAfter=No
 9	。	。	PUNCT	Supsym.p	PunctType=Peri	6	punct	_	SpaceAfter=No
 
 # sentence_id = 36
@@ -778,7 +778,7 @@
 14	景季も	かげすゑ	PROPN	N.prop.n.f	NameType=Giv	15	nsubj	_	SpaceAfter=No
 15	ぬすむべかりける	ぬすむ	VERB	V.g	_	18	ccomp	_	SpaceAfter=No
 16	ものを	ものを	SCONJ	P.conj	_	15	mark	_	SpaceAfter=No
-17	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	15	punct	_	SpaceAfter=No
+17	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	15	punct	_	SpaceAfter=No
 18	とて	とて	VERB	V.g	_	20	advcl	_	SpaceAfter=No
 19	どっと	どっと	ADV	Adv	AdvType=Deg	20	advmod	_	SpaceAfter=No
 20	笑っ	わらふ	VERB	V.g	_	22	advcl	_	SpaceAfter=No
@@ -1133,7 +1133,7 @@
 8	大河	だいが	NOUN	N.c.g	_	2	ccomp	_	SpaceAfter=No
 9	ぞ	ぞ	PART	P.bind	_	8	discourse:sp	_	SpaceAfter=No
 10	や	や	PART	P.bind	_	8	discourse:sp	_	SpaceAfter=No
-11	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	8	punct	_	SpaceAfter=No
+11	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	8	punct	_	SpaceAfter=No
 12	。	。	PUNCT	Supsym.p	PunctType=Peri	8	punct	_	SpaceAfter=No
 
 # sentence_id = 72
@@ -1152,7 +1152,7 @@
 1	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	3	punct	_	SpaceAfter=No
 2	しめ	しむ	VERB	V.bnd	_	3	compound:svc	_	SpaceAfter=No
 3	給へ	たまふ	VERB	Aux	_	6	ccomp	_	SpaceAfter=No
-4	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	3	punct	_	SpaceAfter=No
+4	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	3	punct	_	SpaceAfter=No
 5	と	と	PART	P.case	_	6	compound:prt	_	SpaceAfter=No
 6	言はれ	いふ	VERB	V.bnd	_	30	advcl	_	SpaceAfter=No
 7	て	て	SCONJ	P.conj	_	6	mark	_	SpaceAfter=No
@@ -1291,7 +1291,7 @@
 30	先陣	せんじん	NOUN	N.c.g	_	10	ccomp	_	SpaceAfter=No
 31	ぞ	ぞ	PART	P.bind	_	30	discourse:sp	_	SpaceAfter=No
 32	や	や	PART	P.bind	_	30	discourse:sp	_	SpaceAfter=No
-33	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	30	punct	_	SpaceAfter=No
+33	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	30	punct	_	SpaceAfter=No
 34	。	。	PUNCT	Supsym.p	PunctType=Peri	30	punct	_	SpaceAfter=No
 
 # sentence_id = 81
@@ -1305,7 +1305,7 @@
 6	高綱に	たかつな	PROPN	N.prop.n.f	NameType=Giv	7	obl	_	SpaceAfter=No
 7	くめ	くむ	VERB	V.g	_	10	ccomp	_	SpaceAfter=No
 8	や	や	PART	P.bind	_	7	discourse:sp	_	SpaceAfter=No
-9	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	7	punct	_	SpaceAfter=No
+9	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	7	punct	_	SpaceAfter=No
 10	とて	とて	VERB	V.bnd	_	11	advcl	_	SpaceAfter=No
 11	おめい	をめく	VERB	V.g	_	13	advcl	_	SpaceAfter=No
 12	て	て	SCONJ	P.conj	_	11	mark	_	SpaceAfter=No
@@ -1391,14 +1391,14 @@
 1	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	2	punct	_	SpaceAfter=No
 2	た	た	PRON	Pron	_	6	ccomp	_	SpaceAfter=No
 3	そ	そ	PART	P.bind	_	2	discourse:sp	_	SpaceAfter=No
-4	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	2	punct	_	SpaceAfter=No
+4	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	2	punct	_	SpaceAfter=No
 5	と	と	PART	P.case	_	6	compound:prt	_	SpaceAfter=No
 6	問へ	とふ	VERB	V.bnd	_	13	parataxis	_	SpaceAfter=No
 7	ば	ば	SCONJ	P.conj	_	6	mark	_	SpaceAfter=No
 8	、	、	PUNCT	Supsym.c	PunctType=Comm	6	punct	_	SpaceAfter=No
 9	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	10	punct	_	SpaceAfter=No
 10	重親	しげちか	PROPN	N.prop.n.f	NameType=Giv	13	ccomp	_	SpaceAfter=No
-11	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	10	punct	_	SpaceAfter=No
+11	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	10	punct	_	SpaceAfter=No
 12	と	と	PART	P.bind	_	13	compound:prt	_	SpaceAfter=No
 13	答ふ	こたふ	VERB	V.g	_	0	root	_	SpaceAfter=No
 14	。	。	PUNCT	Supsym.p	PunctType=Peri	13	punct	_	SpaceAfter=No
@@ -1410,11 +1410,11 @@
 2	いかに	いかに	INTJ	Adv	_	3	discourse	_	SpaceAfter=No
 3	大串	おほしく	PROPN	N.prop.n.s	NameType=Sur	8	parataxis	_	SpaceAfter=No
 4	か	か	PART	P.fin	_	3	discourse:sp	_	SpaceAfter=No
-5	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	3	punct	_	SpaceAfter=No
+5	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	3	punct	_	SpaceAfter=No
 6	「	「	PUNCT	Supsym.bo	PunctType=Quot|PunctSide=Ini	8	punct	_	SpaceAfter=No
 7	さ	さ	ADV	Adv	AdvType=Man	8	advmod	_	SpaceAfter=No
 8	候	さう	VERB	V.g	_	0	root	_	SpaceAfter=No
-9	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	8	punct	_	SpaceAfter=No
+9	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	8	punct	_	SpaceAfter=No
 
 # sentence_id = 88
 # text = 大串次郎は畠山にはえぼしごにてぞありける。
@@ -1450,7 +1450,7 @@
 5	つき参らせ	つきまゐる	VERB	V.bnd	_	10	ccomp	_	SpaceAfter=No
 6	て	て	SCONJ	P.conj	_	5	mark	_	SpaceAfter=No
 7	候	さう	AUX	Aux	_	5	aux	_	SpaceAfter=No
-8	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	5	punct	_	SpaceAfter=No
+8	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	5	punct	_	SpaceAfter=No
 9	と	そ	PART	P.case	_	10	compound:prt	_	SpaceAfter=No
 10	言ひけれ	いふ	VERB	V.g	_	22	parataxis	_	SpaceAfter=No
 11	ば	ば	SCONJ	P.conj	_	10	mark	_	SpaceAfter=No
@@ -1462,7 +1462,7 @@
 17	なる	なり	AUX	Aux	_	16	cop	_	SpaceAfter=No
 18	者にこそ	もの	NOUN	N.c.g	_	19	obl:agent	_	SpaceAfter=No
 19	助られむずれ	たすく	VERB	V.g	_	22	ccomp	_	SpaceAfter=No
-20	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	19	punct	_	SpaceAfter=No
+20	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	19	punct	_	SpaceAfter=No
 21	と	と	ADP	P.case	_	22	compound:prt	_	SpaceAfter=No
 22	いふ	いふ	VERB	V.g	_	23	acl	_	SpaceAfter=No
 23	ままに	まま	NOUN	N.c.g	_	27	advcl	_	SpaceAfter=No
@@ -1498,7 +1498,7 @@
 16	先陣	せんじん	NOUN	N.c.g	_	22	ccomp	_	SpaceAfter=No
 17	ぞ	ぞ	PART	P.bind	_	16	discourse:sp	_	SpaceAfter=No
 18	や	や	PART	P.bind	_	16	discourse:sp	_	SpaceAfter=No
-19	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	16	punct	_	SpaceAfter=No
+19	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	16	punct	_	SpaceAfter=No
 20	と	と	PART	P.case	_	22	compound:prt	_	SpaceAfter=No
 21	ぞ	ぞ	PART	P.bind	_	22	discourse:sp	_	SpaceAfter=No
 22	名乗たる	なのる	VERB	V.g	_	0	root	_	SpaceAfter=No
@@ -1568,7 +1568,7 @@
 6	ぞ	ぞ	PART	P.bind	_	5	discourse:sp	_	SpaceAfter=No
 7	名乗れ	なのる	VERB	V.g	_	11	ccomp	_	SpaceAfter=No
 8	や	や	PART	P.fin	_	7	discourse:sp	_	SpaceAfter=No
-9	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	7	punct	_	SpaceAfter=No
+9	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	7	punct	_	SpaceAfter=No
 10	と	と	PART	P.case	_	11	compound:prt	_	SpaceAfter=No
 11	言ひけれ	いふ	VERB	V.bnd	_	23	parataxis	_	SpaceAfter=No
 12	ば	ば	SCONJ	P.conj	_	11	mark	_	SpaceAfter=No
@@ -1580,7 +1580,7 @@
 18	長瀬	ながせ	PROPN	N.prop.n.s	NameType=Sur	19	compound	_	SpaceAfter=No
 19	判官代	はうぐゎんだい	NOUN	N.c.g	_	20	flat	_	SpaceAfter=No
 20	重綱	しげつな	PROPN	N.prop.n.f	NameType=Giv	23	ccomp	_	SpaceAfter=No
-21	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	20	punct	_	SpaceAfter=No
+21	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	20	punct	_	SpaceAfter=No
 22	と	と	PART	P.case	_	23	compound:prt	_	SpaceAfter=No
 23	名乗る	なのる	VERB	V.g	_	0	root	_	SpaceAfter=No
 24	。	。	PUNCT	Supsym.p	PunctType=Peri	23	punct	_	SpaceAfter=No
@@ -1593,7 +1593,7 @@
 3	今日の	けふ	NOUN	N.c.adv	_	4	nmod	_	SpaceAfter=No
 4	軍神	いくさがみ	NOUN	N.c.g	_	5	obl	_	SpaceAfter=No
 5	いははん	いふ	VERB	V.g	_	7	ccomp	_	SpaceAfter=No
-6	」	」	PUNCT	Supsym.bc	PunctType=Quot|PunctSide=Fin	5	punct	_	SpaceAfter=No
+6	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	5	punct	_	SpaceAfter=No
 7	とて	とて	VERB	V.g	_	9	advcl	_	SpaceAfter=No
 8	押し	おす	VERB	V.g	_	9	compound:svc	_	SpaceAfter=No
 9	ならべ	ならぶ	VERB	V.bnd	_	12	conj	_	SpaceAfter=No
