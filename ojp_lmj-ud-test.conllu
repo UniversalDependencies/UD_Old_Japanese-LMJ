@@ -112,7 +112,7 @@
 13	宿所	しゅくしょ	NOUN	N.c	_	15	appos	_	SpaceAfter=No
 14	、	、	PUNCT	Supsym.c	PunctType=Comm	15	punct	_	SpaceAfter=No
 15	六条西洞院	ろくじょうにしのとういん	PROPN	N.prop.p.g.	NameType=Geo	20	advcl	_	SpaceAfter=No
-16	なれ	なれ	AUX	Aux VerbType=Aux	15	cop	_	SpaceAfter=No
+16	なれ	なれ	AUX	Aux	VerbType=Aux	15	cop	_	SpaceAfter=No
 17	ば	ば	SCONJ	P.conj	_	15	mark	_	SpaceAfter=No
 18	御所の	ごしょ	NOUN	N.c	Case=Gen	19	nmod	_	SpaceAfter=No
 19	てい	てい	NOUN	N.c	_	20	nsubj	_	SpaceAfter=No
@@ -152,7 +152,7 @@
 8	はじめ	はじめ	NOUN	N.c.adv	_	14	advcl	_	SpaceAfter=No
 9	なれ	なり	AUX	Aux	VerbType=Aux	8	cop	_	SpaceAfter=No
 10	ども	ども	SCONJ	P.conj	_	8	mark	_	SpaceAfter=No
-11	、	、	PUNCT	Supsym.c	PunctType=Comm	9	punct	_	SpaceAfter=No
+11	、	、	PUNCT	Supsym.c	PunctType=Comm	8	punct	_	SpaceAfter=No
 12	元日元三の	ぐゎんにちぐゎんざん	NOUN	_	Case=Gen	13	nmod	_	SpaceAfter=No
 13	儀式	ぎしき	NOUN	N.c.g	_	14	nsubj	_	SpaceAfter=No
 14	事よろしからず	ことよろし	NOUN	N.c.g	_	0	root	_	SpaceAfter=No
@@ -229,13 +229,13 @@
 15	ど	ど	SCONJ	P.conj	_	14	mark	_	SpaceAfter=No
 16	、	、	PUNCT	Supsym.c	PunctType=Comm	14	punct	_	SpaceAfter=No
 17	ただ	ただ	ADV	Adv	AdvType=Deg	19	advmod	_	SpaceAfter=No
-18	平家の	へいけ	PROPN	N.prop.n.s	NameType=Sur|Case=Gen	19	nmod	_	SpaceAfter=No
+18	平家の	へいけ	PROPN	N.prop.n.s	Case=Gen|NameType=Sur	19	nmod	_	SpaceAfter=No
 19	人々は	ひとびと	NOUN	N.c.g	Case=Nom	30	nsubj:situation	_	SpaceAfter=No
 20	、	、	PUNCT	Supsym.c	PunctType=Comm	19	punct	_	SpaceAfter=No
 21	いつも	いつも	ADV	Adv	AdvType=Tim	25	advmod	_	SpaceAfter=No
 22	氷に	ひ	NOUN	N.c.g	_	24	obl	_	SpaceAfter=No
 23	閉ぢ	とぢむ	VERB	V	_	24	compound:svc	_	SpaceAfter=No
-24	こめられたる	こむ	VERB	V	Voice=Pass|Aspect=Prog	25	acl	_	SpaceAfter=No
+24	こめられたる	こむ	VERB	V	Voice=Pass	25	acl	_	SpaceAfter=No
 25	心地	ここち	NOUN	N.c.g	_	30	advcl	_	SpaceAfter=No
 26	し	す	AUX	V	VerbType=Light	25	compound:lvc	_	SpaceAfter=No
 27	て	て	SCONJ	P.conj	_	25	mark	_	SpaceAfter=No
@@ -292,7 +292,7 @@
 9	四郎	しらう	PROPN	N.prop.n.f	NameType=Giv	8	flat:name	_	SpaceAfter=No
 10	兼平	かねひら	PROPN	N.prop.n.f	NameType=Giv	8	flat:name	_	SpaceAfter=No
 11	八百	や	NUM	N.num	NumType=Card	13	nummod	_	SpaceAfter=No
-12	余	よ	NUM	N.adv	_	11	advmod	_	SpaceAfter=No
+12	余	よ	ADV	N.adv	_	11	advmod	_	SpaceAfter=No
 13	騎で	き	NOUN	N.c.count	Case=Com	15	obl	_	SpaceAfter=No
 14	差し	さす	VERB	V	_	15	compound:svc	_	SpaceAfter=No
 15	つかはす	つかはす	VERB	V	Mood=Ind|Polite=Elev|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -301,7 +301,6 @@
 # sent_id = 14
 # text = 宇治橋へは仁科、高梨、山田次郎、五百余騎でつかはす。
 # text_ger =
-
 1	宇治橋へは	うぢばし	PROPN	N.prop.g	NameType=Geo|Case=All	11	obl:focus	_	SpaceAfter=No
 2	仁科	にしな	PROPN	N.prop.n.s	NameType=Sur	11	obj	_	SpaceAfter=No
 3	、	、	PUNCT	Supsym.c	PunctType=Comm	2	punct	_	SpaceAfter=No
@@ -310,7 +309,7 @@
 6	山田	やまだ	PROPN	N.prop.p.g	NameType=Sur	4	conj	_	SpaceAfter=No
 7	次郎	じらう	PROPN	N.prop.n.f	NameType=Giv	6	flat:nmae	_	SpaceAfter=No
 8	五百	ごひゃく	NUM	N.num	NumType=Card	10	nummod	_	SpaceAfter=No
-9	余	よ	NUM	N.adv	_	8	advmod	_	SpaceAfter=No
+9	余	よ	ADV	N.adv	_	8	advmod	_	SpaceAfter=No
 10	騎で	き	NOUN	N.c.count	Case=Com	11	obl	_	SpaceAfter=No
 11	つかはす	つかはす	VERB	V	Mood=Ind|Polite=Elev|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 12	。	。	PUNCT	Supsym.p	PunctType=Peri	11	punct	_	SpaceAfter=No
@@ -325,7 +324,7 @@
 5	先生	せんじゃう	PROPN	N.prop.n.f	NameType=Giv	3	flat:name	_	SpaceAfter=No
 6	義憲	よしのり	PROPN	N.prop.n.f	NameType=Giv	3	flat:name	_	SpaceAfter=No
 7	三百	さんびゃく	NUM	N.num	NumType=Card	9	nummod	_	SpaceAfter=No
-8	余	よ	NUM	N.num	_	7	advmod	_	SpaceAfter=No
+8	余	よ	ADV	N.num	_	7	advmod	_	SpaceAfter=No
 9	騎で	き	NOUN	N.c.count	Case=Com	10	obl	_	SpaceAfter=No
 10	向ひけり	むかふ	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	SpaceAfter=No
@@ -352,14 +351,14 @@
 17	むねとの	むねと	NOUN	N.c.adv	Case=Gen	18	nmod	_	SpaceAfter=No
 18	大名	だいみゃう	NOUN	N.c.g	_	21	nsubj	_	SpaceAfter=No
 19	三十	さんじゅう	NUM	N.num	NumType=Card	21	nummod	_	SpaceAfter=No
-20	余	よ	NUM	N.num	_	19	advmod	_	SpaceAfter=No
+20	余	よ	ADV	N.num	_	19	advmod	_	SpaceAfter=No
 21	人	ひと	NOUN	N.c.count	_	28	parataxis	_	SpaceAfter=No
 22	、	、	PUNCT	Supsym.c	PunctType=Comm	21	punct	_	SpaceAfter=No
 23	都合	つがふ	ADV	Adv	_	28	advmod	_	SpaceAfter=No
 24	その	その	DET	Adn	_	25	det	_	SpaceAfter=No
 25	勢	せい	NOUN	N.c.g	_	28	nsubj	_	SpaceAfter=No
 26	六万	ろくまん	NUM	N.num	NumType=Card	28	nummod	_	SpaceAfter=No
-27	余	よ	NUM	N.num	_	26	advmod	_	SpaceAfter=No
+27	余	よ	ADV	N.num	_	26	advmod	_	SpaceAfter=No
 28	騎	き	NOUN	N.count	_	31	ccomp	_	SpaceAfter=No
 29	と	と	VERB	P.case	_	31	aux	_	SpaceAfter=No
 30	ぞ	ぞ	PART	P.bind	PartType=Emp	31	discourse:sp	_	SpaceAfter=No
