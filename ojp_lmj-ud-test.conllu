@@ -299,9 +299,9 @@
 16	。	。	PUNCT	Supsym.p	PunctType=Peri	15	punct	_	SpaceAfter=No
 
 # sent_id = 14
-# text = 宇治橋へは仁科、高梨、山田次郎、五百余騎でつかはす。
+# text = 宇治橋へは仁科、高梨、山田次郎五百余騎でつかはす。
 # text_ger =
-1	宇治橋へは	うぢばし	PROPN	N.prop.g	NameType=Geo|Case=All	11	obl:focus	_	SpaceAfter=No
+1	宇治橋へは	うぢばし	PROPN	N.prop.g	Case=All|NameType=Geo	11	obl:focus	_	SpaceAfter=No
 2	仁科	にしな	PROPN	N.prop.n.s	NameType=Sur	11	obj	_	SpaceAfter=No
 3	、	、	PUNCT	Supsym.c	PunctType=Comm	2	punct	_	SpaceAfter=No
 4	高梨	たかなし	PROPN	N.prop.n.s	NameType=Sur	2	conj	_	SpaceAfter=No
@@ -1069,10 +1069,10 @@
 1	治承の	ぢじよう	PROPN	N.prop.g	Case=Gen|NameType=Oth	2	nmod	_	SpaceAfter=No
 2	合戦に	かっせん	NOUN	N.c.g	_	8	obl:lmod	_	SpaceAfter=No
 3	、	、	PUNCT	Supsym.c	PunctType=Comm	2	punct	_	SpaceAfter=No
-4	足利	あしかがの	PROPN	N.prop.n.s	NameType=Sur	6	flat:name	_	SpaceAfter=No
-5	また太郎	またたらう	PROPN	N.prop.n.f	NameType=Giv	6	flat:name	_	SpaceAfter=No
-6	忠綱は	ただつな	PROPN	N.prop.n.f	NameType=Giv	8	nsubj	_	SpaceAfter=No
-7	鬼神で	おにかみ	NOUN	N.c.g	_	8	obl	_	SpaceAfter=No
+4	足利	あしかがの	PROPN	N.prop.n.s	NameType=Sur	8	nsubj	_	SpaceAfter=No
+5	また太郎	またたらう	PROPN	N.prop.n.f	NameType=Giv	4	flat:name	_	SpaceAfter=No
+6	忠綱は	ただつな	PROPN	N.prop.n.f	NameType=Giv	4	flat:name	_	SpaceAfter=No
+7	鬼神で	おにかみ	NOUN	N.c.g	Case=Com	8	obl	_	SpaceAfter=No
 8	わたしける	わたす	VERB	V	_	0	root	_	SpaceAfter=No
 9	か	か	PART	P.fin	_	8	discourse:sp	_	SpaceAfter=No
 10	。	。	PUNCT	Supsym.p	PunctType=Peri	8	punct	_	SpaceAfter=No
@@ -1081,18 +1081,18 @@
 # text = 一騎は梶原源太景季、一騎は佐々木四郎高綱なり。
 # text_ger = 
 1	一	いち	NUM	N.num	_	2	nummod	_	SpaceAfter=No
-2	騎は	き	NOUN	N.c.count	_	5	nsubj	_	SpaceAfter=No
-3	梶原	かぢはら	PROPN	N.prop.n.s	NameType=Sur	5	flat:name	_	SpaceAfter=No
-4	源太	げんだ	PROPN	N.prop.n.f	NameType=Giv	5	flat:name	_	SpaceAfter=No
-5	景季	かげすゑ	PROPN	N.prop.n.f	NameType=Giv	11	parataxis	_	SpaceAfter=No
-6	、	、	PUNCT	Supsym.c	PunctType=Comm	5	punct	_	SpaceAfter=No
+2	騎は	き	NOUN	N.c.count	_	3	nsubj	_	SpaceAfter=No
+3	梶原	かぢはら	PROPN	N.prop.n.s	NameType=Sur	9	parataxis	_	SpaceAfter=No
+4	源太	げんだ	PROPN	N.prop.n.f	NameType=Giv	3	flat:name	_	SpaceAfter=No
+5	景季	かげすゑ	PROPN	N.prop.n.f	NameType=Giv	3	flat:name	_	SpaceAfter=No
+6	、	、	PUNCT	Supsym.c	PunctType=Comm	3	punct	_	SpaceAfter=No
 7	一	いち	NUM	N.num	_	8	nummod	_	SpaceAfter=No
-8	騎は	き	NOUN	N.c.count	_	11	nsubj	_	SpaceAfter=No
-9	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	11	flat:name	_	SpaceAfter=No
-10	四郎	しらう	PROPN	N.prop.n.f	NameType=Giv	11	flat:name	_	SpaceAfter=No
-11	高綱	たかつな	PROPN	N.prop.n.f	NameType=Giv	0	root	_	SpaceAfter=No
-12	なり	なり	AUX	Aux	_	11	cop	_	SpaceAfter=No
-13	。	。	PUNCT	Supsym.p	PunctType=Peri	11	punct	_	SpaceAfter=No
+8	騎は	き	NOUN	N.c.count	_	9	nsubj	_	SpaceAfter=No
+9	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	0	root	_	SpaceAfter=No
+10	四郎	しらう	PROPN	N.prop.n.f	NameType=Giv	9	flat:name	_	SpaceAfter=No
+11	高綱	たかつな	PROPN	N.prop.n.f	NameType=Giv	9	flat:name	_	SpaceAfter=No
+12	なり	なり	AUX	Aux	_	9	cop	_	SpaceAfter=No
+13	。	。	PUNCT	Supsym.p	PunctType=Peri	9	punct	_	SpaceAfter=No
 
 # sent_id = 70
 # text = 人目には何とも見えざりけれども、内々は先に心をかけたりければ、梶原は佐々木に一段ばかりぞ進だる。
@@ -1259,7 +1259,7 @@
 2	あぶみ	あぶみ	NOUN	N.c.g	_	5	obj	_	SpaceAfter=No
 3	ふばり	ふんばる	VERB	V	_	4	compound:svc	_	SpaceAfter=No
 4	たち	たつ	VERB	V	_	5	compound:svc	_	SpaceAfter=No
-5	上り	あがる	VERB	_	_	8	conj	_	SpaceAfter=No
+5	上り	あがる	VERB	_	_	8	advcl	_	SpaceAfter=No
 6	、	、	PUNCT	Supsym.c	PunctType=Comm	5	punct	_	SpaceAfter=No
 7	大音声を	だいおんじゃう	NOUN	N.c.g	_	8	obj	_	SpaceAfter=No
 8	揚	あぐ	VERB	V	_	10	advcl	_	SpaceAfter=No
@@ -1271,18 +1271,18 @@
 14	天皇より	てんわう	NOUN	N.c.g	_	13	flat	_	SpaceAfter=No
 15	九	く	NUM	N.num	_	16	nummod	_	SpaceAfter=No
 16	代の	だい	NOUN	N.c.count	_	17	nmod	_	SpaceAfter=No
-17	後胤	こういん	NOUN	N.c.g	_	27	appos	_	SpaceAfter=No
+17	後胤	こういん	NOUN	N.c.g	_	30	nsubj	_	SpaceAfter=No
 18	、	、	PUNCT	Supsym.c	PunctType=Comm	17	punct	_	SpaceAfter=No
-19	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	21	flat:name	_	SpaceAfter=No
-20	三郎	さんぶらう	PROPN	N.prop.n.f	NameType=Giv	21	flat:name	_	SpaceAfter=No
-21	秀義が	ひでよし	PROPN	N.prop.n.f	NameType=Giv	23	nmod	_	SpaceAfter=No
+19	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	23	nmod	_	SpaceAfter=No
+20	三郎	さんぶらう	PROPN	N.prop.n.f	NameType=Giv	19	flat:name	_	SpaceAfter=No
+21	秀義が	ひでよし	PROPN	N.prop.n.f	NameType=Giv	19	flat:name	_	SpaceAfter=No
 22	四	し	NUM	N.num	_	23	nummod	_	SpaceAfter=No
-23	男	なん	NOUN	N.c.count	_	27	appos	_	SpaceAfter=No
+23	男	なん	NOUN	N.c.count	_	17	appos	_	SpaceAfter=No
 24	、	、	PUNCT	Supsym.c	PunctType=Comm	23	punct	_	SpaceAfter=No
-25	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	27	flat:name	_	SpaceAfter=No
-26	四郎	しらう	PROPN	N.prop.n.f	NameType=Giv	27	flat:name	_	SpaceAfter=No
-27	高綱	たかつな	PROPN	N.prop.n.f	NameType=Giv	30	nsubj	_	SpaceAfter=No
-28	、	、	PUNCT	Supsym.c	PunctType=Comm	27	punct	_	SpaceAfter=No
+25	佐々木	ささき	PROPN	N.prop.n.s	NameType=Sur	23	appos	_	SpaceAfter=No
+26	四郎	しらう	PROPN	N.prop.n.f	NameType=Giv	25	flat:name	_	SpaceAfter=No
+27	高綱	たかつな	PROPN	N.prop.n.f	NameType=Giv	25	flat:name	_	SpaceAfter=No
+28	、	、	PUNCT	Supsym.c	PunctType=Comm	25	punct	_	SpaceAfter=No
 29	宇治川の	うぢがは	PROPN	N.prop.p.g	NameType=Geo	30	nmod	_	SpaceAfter=No
 30	先陣	せんじん	NOUN	N.c.g	_	10	ccomp	_	SpaceAfter=No
 31	ぞ	ぞ	PART	P.bind	_	30	discourse:sp	_	SpaceAfter=No
@@ -1536,7 +1536,7 @@
 2	直垂に	ひたたれ	NOUN	N.c.g	_	5	obl:lmod	_	SpaceAfter=No
 3	緋威の	ひをどし	NOUN	N.c.g	_	4	nmod	_	SpaceAfter=No
 4	鎧	よろひ	NOUN	N.c.g	_	5	obj	_	SpaceAfter=No
-5	着	きる	VERB	V	_	13	conj	_	SpaceAfter=No
+5	着	きる	VERB	V	_	13	advcl	_	SpaceAfter=No
 6	て	て	CCONJ	P.conj	_	5	mark	_	SpaceAfter=No
 7	、	、	PUNCT	Supsym.c	PunctType=Comm	5	punct	_	SpaceAfter=No
 8	連錢葦毛	れんぜんあしげ	NOUN	N.c.g	_	10	acl	_	SpaceAfter=No
@@ -1568,15 +1568,15 @@
 10	と	と	PART	P.bind	_	11	compound:prt	_	SpaceAfter=No
 11	言ひけれ	いふ	VERB	V	_	23	parataxis	_	SpaceAfter=No
 12	ば	ば	SCONJ	P.conj	_	11	mark	_	SpaceAfter=No
-13	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	20	punct	_	SpaceAfter=No
+13	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	16	punct	_	SpaceAfter=No
 14	木曾殿の	きそ	PROPN	N.prop.n.s	NameType=Prs	15	nmod	_	SpaceAfter=No
 15	家の	いへ	NOUN	N.c.g	_	16	nmod	_	SpaceAfter=No
-16	子	こ	NOUN	N.c.g	_	20	appos	_	SpaceAfter=No
+16	子	こ	NOUN	N.c.g	_	23	ccomp	_	SpaceAfter=No
 17	に	に	AUX	Aux	_	16	cop	_	SpaceAfter=No
 18	長瀬	ながせ	PROPN	N.prop.n.s	NameType=Sur	19	compound	_	SpaceAfter=No
-19	判官代	はうぐゎんだい	NOUN	N.c.g	_	20	flat	_	SpaceAfter=No
-20	重綱	しげつな	PROPN	N.prop.n.f	NameType=Giv	23	ccomp	_	SpaceAfter=No
-21	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	20	punct	_	SpaceAfter=No
+19	判官代	はうぐゎんだい	NOUN	N.c.g	_	16	appos	_	SpaceAfter=No
+20	重綱	しげつな	PROPN	N.prop.n.f	NameType=Giv	19	flat	_	SpaceAfter=No
+21	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	16	punct	_	SpaceAfter=No
 22	と	と	PART	P.bind	_	23	compound:prt	_	SpaceAfter=No
 23	名乗る	なのる	VERB	V	_	0	root	_	SpaceAfter=No
 24	。	。	PUNCT	Supsym.p	PunctType=Peri	23	punct	_	SpaceAfter=No
@@ -1592,21 +1592,21 @@
 6	」	」	PUNCT	Supsym.bc	PunctSide=Fin|PunctType=Quot	5	punct	_	SpaceAfter=No
 7	とて	とて	VERB	V	_	9	advcl	_	SpaceAfter=No
 8	押し	おす	VERB	V	_	9	compound:svc	_	SpaceAfter=No
-9	ならべ	ならぶ	VERB	V	_	12	conj	_	SpaceAfter=No
+9	ならべ	ならぶ	VERB	V	_	12	advcl	_	SpaceAfter=No
 10	て	て	SCONJ	P.conj	_	9	mark	_	SpaceAfter=No
 11	むずと	むずと	ADV	Adv	AdvType=Man	12	advmod	_	SpaceAfter=No
-12	捕っ	とる	VERB	V	_	15	conj	_	SpaceAfter=No
+12	捕っ	とる	VERB	V	_	15	advcl	_	SpaceAfter=No
 13	て	て	SCONJ	P.conj	_	12	mark	_	SpaceAfter=No
 14	引き	ひく	VERB	V	_	15	compound:svc	_	SpaceAfter=No
-15	落し	おとす	VERB	V	_	19	conj	_	SpaceAfter=No
+15	落し	おとす	VERB	V	_	19	advcl	_	SpaceAfter=No
 16	、	、	PUNCT	Supsym.c	PunctType=Comm	15	punct	_	SpaceAfter=No
 17	頸	くび	NOUN	N.c.g	_	19	obj	_	SpaceAfter=No
 18	ねぢ	ねづ	VERB	V	_	19	compound:svc	_	SpaceAfter=No
 19	切	きる	VERB	V	_	26	advcl	_	SpaceAfter=No
 20	て	て	SCONJ	P.conj	_	19	mark	_	SpaceAfter=No
 21	、	、	PUNCT	Supsym.c	PunctType=Comm	19	punct	_	SpaceAfter=No
-22	本田	ほんだ	PROPN	N.prop.n.s	NameType=Sur	23	nmod	_	SpaceAfter=No
-23	二郎が	じらう	PROPN	N.prop.n.f	NameType=Giv	24	flat:name	_	SpaceAfter=No
+22	本田	ほんだ	PROPN	N.prop.n.s	NameType=Sur	24	nmod	_	SpaceAfter=No
+23	二郎が	じらう	PROPN	N.prop.n.f	NameType=Giv	22	flat:name	_	SpaceAfter=No
 24	鞍の	くら	NOUN	N.c.g	_	25	nmod	_	SpaceAfter=No
 25	とりつけにこそ	とりつけ	NOUN	N.c.g	_	26	obl:lmod	_	SpaceAfter=No
 26	つけさせけれ	つく	VERB	V	_	0	root	_	SpaceAfter=No
@@ -1642,8 +1642,8 @@
 25	散散に	さんざん	ADV	N.c.g	_	26	advmod	_	SpaceAfter=No
 26	かけなされ	かく	VERB	V	_	30	advcl	_	SpaceAfter=No
 27	、	、	PUNCT	Supsym.c	PunctType=Comm	26	punct	_	SpaceAfter=No
-28	木幡山	こはたやま	PROPN	N.prop.p.g	NameType=Geo	29	obl:lmod	_	SpaceAfter=No
-29	伏見を	ふしみ	PROPN	N.prop.p.g	NameType=Geo	30	conj	_	SpaceAfter=No
+28	木幡山	こはたやま	PROPN	N.prop.p.g	NameType=Geo	30	obl:lmod	_	SpaceAfter=No
+29	伏見を	ふしみ	PROPN	N.prop.p.g	NameType=Geo	28	conj	_	SpaceAfter=No
 30	さい	さく	VERB	V	_	34	advcl	_	SpaceAfter=No
 31	て	て	SCONJ	P.conj	_	30	mark	_	SpaceAfter=No
 32	ぞ	ぞ	PART	P.bind	_	34	discourse:sp	_	SpaceAfter=No
@@ -1660,8 +1660,8 @@
 4	重成が	しげなり	PROPN	N.prop.f	NameType=Giv	2	flat:name	_	SpaceAfter=No
 5	はからひにて	はかる	NOUN	N.c.g	_	10	obl	_	SpaceAfter=No
 6	、	、	PUNCT	Supsym.c	PunctType=Comm	5	punct	_	SpaceAfter=No
-7	田上	たなかみの	PROPN	N.prop.p.g	NameType=Geo	8	flat	_	SpaceAfter=No
-8	供御の	ぐご	PROPN	N.prop.p.g	NameType=Geo	9	nmod	_	SpaceAfter=No
+7	田上	たなかみの	PROPN	N.prop.p.g	NameType=Geo	9	nmod	_	SpaceAfter=No
+8	供御の	ぐご	PROPN	N.prop.p.g	NameType=Geo	7	flat	_	SpaceAfter=No
 9	瀬をこそ	せ	NOUN	N.c.g	_	10	obj	_	SpaceAfter=No
 10	渡しけれ	わたす	VERB	V	_	0	root	_	SpaceAfter=No
 11	。	。	PUNCT	Supsym.p	PunctType=Peri	10	punct	_	SpaceAfter=No
