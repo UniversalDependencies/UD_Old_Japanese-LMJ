@@ -3052,7 +3052,7 @@
 4	。	。	PUNCT	Supsym.p	PunctType=Peri	3	punct	_	SpaceAfter=No
 
 # sent_id = 201
-# text = なにによってか一領のおんきせながを重うは思食候べき。
+# text = なにによってか一領のおんきせながを重うはおぼしめし候べき。
 # text_ger = 
 1	なにに	なに	PRON	Pron	_	2	obl	_	SpaceAfter=No
 2	よって	よって	VERB	Adv	_	9	advcl	_	SpaceAfter=No
@@ -3197,7 +3197,7 @@
 19	。	。	PUNCT	Supsym.p	PunctType=Peri	18	punct	_	SpaceAfter=No
 
 # sent_id = 213
-# text = 今井四郎ただ一騎、五十騎ばかりが中へかけ入りあぶみふんばり立上り、大音声あげて名乗けるは、「ひごろは音にも聞きつらん、今は目にも見給へ」。
+# text = 今井四郎ただ一騎、五十騎ばかりが中へかけ入りあぶみふんばり立ち上り、大音声あげて名乗けるは、「ひごろは音にも聞きつらん、今は目にも見給へ」。
 # text_ger = 
 1	今井	いまゐ	PROPN	N.prop.n.s	NameType=Sur	2	flat:name	_	SpaceAfter=No
 2	四郎	しらう	PROPN	N.prop.n.g	NameType=Giv	22	nsubj	_	SpaceAfter=No
@@ -3367,7 +3367,7 @@
 26	。	。	PUNCT	Supsym.p	PunctType=Peri	25	punct	_	SpaceAfter=No
 
 # sent_id = 222
-# text = あふれどもあふれども、うてどもうてども動かず。
+# text = あふれどもあふれどもうてどもうてども動かず。
 # text_ger = 
 1	あふれ	あふる	VERB	V.g	_	3	conj	_	SpaceAfter=No
 2	ども	ども	SCONJ	P.bind	_	1	mark	_	SpaceAfter=No
@@ -3489,7 +3489,7 @@
 20	さかさまに	さかさまに	ADV	Adv	_	22	advmod	_	SpaceAfter=No
 21	とび	とぶ	VERB	V.g	_	22	compound:svc	_	SpaceAfter=No
 22	落ち	おつ	VERB	V.g	_	23	conj	_	SpaceAfter=No
-23	貫かっ	つらぬく	VERB	V.g	_	26	advcl	_	SpaceAfter=No
+23	貫か	つらぬく	VERB	V.g	_	26	advcl	_	SpaceAfter=No
 24	て	て	SCONJ	P.conj	_	23	mark	_	SpaceAfter=No
 25	ぞ	ぞ	PART	P.bind	_	23	discourse:sp	_	SpaceAfter=No
 26	うせにける	うせる	VERB	V.g	_	0	root	_	SpaceAfter=No
@@ -3568,7 +3568,7 @@
 8	。	。	PUNCT	Supsym.p	PunctType=Peri	7	punct	_	SpaceAfter=No
 
 # sent_id = 233-234
-# text = あな心憂、これはいづちへとてわたらせ給ひ候ぞ。
+# text = あな心憂これはいづちへとてわたらせ給ひ候ぞ。
 # text_ger = 
 1	あな心憂	あなこころう	INTJ	Adv	_	6	discourse	_	SpaceAfter=No
 2	これは	これ	DET	Pron	Deixis=Prox	3	nsubj:situation	_	SpaceAfter=No
@@ -3621,38 +3621,38 @@
 # sent_id = 239
 # text = といひければ、五百余騎の勢あそこにひかへここにひかへおちゆく程に、鳥羽の南の門を出でけるには、その勢わづかに廿余騎にぞなりにける。
 # text_ger = 
-1	と	と	PART	P.bind	_	2	compound:prt	2:compound:prt	_
-2	いひけれ	いふ	VERB	V.g	_	31	parataxis	31:parataxis	_
-3	ば	ば	SCONJ	P.conj	_	2	mark	2:mark	_
-4	、	、	PUNCT	Supsym.c	PunctType=Comm	2	punct	2:punct	_
-5	五百	ごひゃく	NUM	N.num	_	7	nummod	7:nummod	_
-6	余	よ	ADV	N.adv	_	5	advmod	5:advmod	_
-7	騎の	き	NOUN	N.c.g	Case=Gen	8	nmod	8:nmod	_
-8	勢	せい	NOUN	N.c.g	_	31	nsubj	31:nsubj	_
-9	あそこに	あそこ	DET	Pron	_	10	obl	10:obl	_
-10	ひかへ	ひかふ	VERB	V.g	_	12	conj	12:conj	_
-11	ここに	ここ	DET	Pron	_	12	obl	12:obl	_
-12	ひかへ	ひかふ	VERB	V.g	_	14	advcl	14:advcl	_
-13	おち	おち	VERB	V.g	_	14	compound:svc	14:compound:svc	_
-14	ゆく	ゆく	VERB	V.g	_	15	acl	15:acl	_
-15	程に	ほど	NOUN	N.c.g	_	20	advcl	20:advcl	_
-16	、	、	PUNCT	Supsym.c	PunctType=Comm	15	punct	15:punct	_
-17	鳥羽の	とば	PROPN	N.prop.p.g	NameType=Geo	18	nmod	18:nmod	_
-18	南の	みなみ	NOUN	N.c.g	Case=Gen	19	nmod	19:nmod	_
-19	門を	かど	NOUN	N.c.g	Case=Acc	20	obj	20:obj	_
-20	出でける	いづ	VERB	V.g	_	31	advcl	31:advcl	_
-21	に	に	SCONJ	P.conj	_	20	mark	20:mark	_
-22	は	は	PART	P.bind	_	20	discourse:sp	20:discourse:sp	_
-23	、	、	PUNCT	Supsym.c	PunctType=Comm	20	punct	20:punct	_
-24	その	その	DET	Pron	_	25	det	25:det	_
-25	勢	せい	NOUN	N.c.g	_	31	nsubj	31:nsubj	_
-26	わづかに	わづかに	ADV	Adv	_	27	advmod	27:advmod	_
-27	廿	にじゅう	NUM	N.num	_	29	nummod	29:nummod	_
-28	余	よ	ADV	N.adv	_	27	advmod	27:advmod	_
-29	騎に	き	NOUN	N.c.count	_	31	obl	31:obl	_
-30	ぞ	ぞ	PART	P.bind	_	31	discourse:sp	31:discourse:sp	_
-31	なりにける	なり	VERB	V.g	_	0	root	0:root	_
-32	。	。	PUNCT	Supsym.p	PunctType=Peri	31	punct	31:punct	_
+1	と	と	PART	P.bind	_	2	compound:prt	2:compound:prt	SpaceAfter=No
+2	いひけれ	いふ	VERB	V.g	_	31	parataxis	31:parataxis	SpaceAfter=No
+3	ば	ば	SCONJ	P.conj	_	2	mark	2:mark	SpaceAfter=No
+4	、	、	PUNCT	Supsym.c	PunctType=Comm	2	punct	2:punct	SpaceAfter=No
+5	五百	ごひゃく	NUM	N.num	_	7	nummod	7:nummod	SpaceAfter=No
+6	余	よ	ADV	N.adv	_	5	advmod	5:advmod	SpaceAfter=No
+7	騎の	き	NOUN	N.c.g	Case=Gen	8	nmod	8:nmod	SpaceAfter=No
+8	勢	せい	NOUN	N.c.g	_	31	nsubj	31:nsubj	SpaceAfter=No
+9	あそこに	あそこ	DET	Pron	_	10	obl	10:obl	SpaceAfter=No
+10	ひかへ	ひかふ	VERB	V.g	_	12	conj	12:conj	SpaceAfter=No
+11	ここに	ここ	DET	Pron	_	12	obl	12:obl	SpaceAfter=No
+12	ひかへ	ひかふ	VERB	V.g	_	14	advcl	14:advcl	SpaceAfter=No
+13	おち	おち	VERB	V.g	_	14	compound:svc	14:compound:svc	SpaceAfter=No
+14	ゆく	ゆく	VERB	V.g	_	15	acl	15:acl	SpaceAfter=No
+15	程に	ほど	NOUN	N.c.g	_	20	advcl	20:advcl	SpaceAfter=No
+16	、	、	PUNCT	Supsym.c	PunctType=Comm	15	punct	15:punct	SpaceAfter=No
+17	鳥羽の	とば	PROPN	N.prop.p.g	NameType=Geo	18	nmod	18:nmod	SpaceAfter=No
+18	南の	みなみ	NOUN	N.c.g	Case=Gen	19	nmod	19:nmod	SpaceAfter=No
+19	門を	かど	NOUN	N.c.g	Case=Acc	20	obj	20:obj	SpaceAfter=No
+20	出でける	いづ	VERB	V.g	_	31	advcl	31:advcl	SpaceAfter=No
+21	に	に	SCONJ	P.conj	_	20	mark	20:mark	SpaceAfter=No
+22	は	は	PART	P.bind	_	20	discourse:sp	20:discourse:sp	SpaceAfter=No
+23	、	、	PUNCT	Supsym.c	PunctType=Comm	20	punct	20:punct	SpaceAfter=No
+24	その	その	DET	Pron	_	25	det	25:det	SpaceAfter=No
+25	勢	せい	NOUN	N.c.g	_	31	nsubj	31:nsubj	SpaceAfter=No
+26	わづかに	わづかに	ADV	Adv	_	27	advmod	27:advmod	SpaceAfter=No
+27	廿	にじゅう	NUM	N.num	_	29	nummod	29:nummod	SpaceAfter=No
+28	余	よ	ADV	N.adv	_	27	advmod	27:advmod	SpaceAfter=No
+29	騎に	き	NOUN	N.c.count	_	31	obl	31:obl	SpaceAfter=No
+30	ぞ	ぞ	PART	P.bind	_	31	discourse:sp	31:discourse:sp	SpaceAfter=No
+31	なりにける	なり	VERB	V.g	_	0	root	0:root	SpaceAfter=No
+32	。	。	PUNCT	Supsym.p	PunctType=Peri	31	punct	31:punct	SpaceAfter=No
 
 # sent_id = 240
 # text = 樋口次郎今日すでに都へ入ると聞えしかば、党も豪家も七条朱雀、四塚さまへはせ向ふ。
