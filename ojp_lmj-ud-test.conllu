@@ -478,7 +478,7 @@
 # sent_id = 24
 # text = 宇治川で死にて候ときこしめし候はば人に先をせられてげりとおぼしめし候へ。
 # text_ger = 
-1	宇治川で	うぢがは	PROPN	N.prop.g	NameType=Geo|Case=Loc	2	obl:lmod	_	SpaceAfter=No
+1	宇治川で	うぢがは	PROPN	N.prop.g	Case=Loc|NameType=Geo	2	obl:lmod	_	SpaceAfter=No
 2	死に	しぬ	VERB	V	_	8	ccomp	_	SpaceAfter=No
 3	て	て	SCONJ	P.conj	_	2	mark	_	SpaceAfter=No
 4	候	さう	AUX	Aux	_	2	aux	_	SpaceAfter=No
@@ -3116,7 +3116,7 @@
 # text = 「あれに見え候は、粟津の松原と申すあの松の中で御自害候へ」とて打て行く程にまた荒手の武者五十騎許出来たり。
 # text_ger = 
 1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	13	punct	_	SpaceAfter=No
-2	あれに	あれ	DET	Pron	Deixis=Remt|DeixisRef=2|Case=Loc	3	obl:lmod	_	SpaceAfter=No
+2	あれに	あれ	DET	Pron	Case=Loc|Deixis=Remt|DeixisRef=2	3	obl:lmod	_	SpaceAfter=No
 3	見え	みゆ	VERB	V.g	_	7	acl	_	SpaceAfter=No
 4	候	さう	AUX	Aux	_	3	aux	_	SpaceAfter=No
 5	、	、	PUNCT	Supsym.c	PunctType=Comm	3	punct	_	SpaceAfter=No
@@ -3197,7 +3197,7 @@
 19	。	。	PUNCT	Supsym.p	PunctType=Peri	18	punct	_	SpaceAfter=No
 
 # sent_id = 213
-# text = 今井四郎ただ一騎、五十騎ばかりが中へかけ入りあぶみふんばり立ち上り、大音声あげて名乗けるは、「ひごろは音にも聞きつらん、今は目にも見給へ」。
+# text = 今井四郎ただ一騎、五十騎ばかりが中へかけ入りあぶみふんばり立ち上り、大音声あげて名乗けるは「ひごろは音にも聞きつらん、今は目にも見給へ」。
 # text_ger = 
 1	今井	いまゐ	PROPN	N.prop.n.s	NameType=Sur	2	flat:name	_	SpaceAfter=No
 2	四郎	しらう	PROPN	N.prop.n.g	NameType=Giv	22	nsubj	_	SpaceAfter=No
@@ -3264,7 +3264,7 @@
 10	。	。	PUNCT	Supsym.p	PunctType=Peri	8	punct	_	SpaceAfter=No
 
 # sent_id = 216
-# text = 兼平うって見参にいれよ」とて射のこしたる八すぢの矢をさしつめひきつめ散々に射る。
+# text = 「兼平うって見参にいれよ」とて射のこしたる八すぢの矢をさしつめひきつめ散々に射る。
 # text_ger = 
 1	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	6	punct	_	SpaceAfter=No
 2	兼平	かねひら	PROPN	N.prop.n.g	NameType=Giv	3	obj	_	SpaceAfter=No
@@ -3383,7 +3383,7 @@
 # sent_id = 223
 # text = 今井が行末のおぼつかなさにふりあふぎ給へる内甲を三浦の石田次郎為久おっかかってよぴいてひやうふつと射る。
 # text_ger = 
-1	今井が	いまゐ	PROPN	N.prop.n.s	NameType=Sur|Case=Gen	2	nmod	_	SpaceAfter=No
+1	今井が	いまゐ	PROPN	N.prop.n.s	Case=Gen|NameType=Sur	2	nmod	_	SpaceAfter=No
 2	行末の	ゆくすゑ	NOUN	N.c.g	Case=Gen	3	nmod	_	SpaceAfter=No
 3	おぼつかなさに	おぼつかなさ	NOUN	N.c.g	_	6	obl	_	SpaceAfter=No
 4	ふり	ふる	VERB	V.g	_	5	compound:svc	_	SpaceAfter=No
@@ -3419,7 +3419,7 @@
 11	給へる	たまふ	VERB	V.g	_	12	acl	_	SpaceAfter=No
 12	ところに	ところ	VERB	V.g	_	25	advcl	_	SpaceAfter=No
 13	、	、	PUNCT	Supsym.c	PunctType=Comm	12	punct	_	SpaceAfter=No
-14	石田が	いしだ	PROPN	N.prop.n.s	NameType=Sur|Case=Gen	15	nmod	_	SpaceAfter=No
+14	石田が	いしだ	PROPN	N.prop.n.s	Case=Gen|NameType=Sur	15	nmod	_	SpaceAfter=No
 15	郎等	らうどう	NOUN	N.c.g	_	25	nsubj	_	SpaceAfter=No
 16	二	に	NUM	N.num	_	17	nummod	_	SpaceAfter=No
 17	人	にん	NOUN	N.c.g	_	15	clf	_	SpaceAfter=No
@@ -3428,7 +3428,7 @@
 20	て	て	SCONJ	P.conj	_	19	mark	_	SpaceAfter=No
 21	、	、	PUNCT	Supsym.c	PunctType=Comm	19	punct	_	SpaceAfter=No
 22	つひに	つひに	ADV	Adv	_	25	advmod	_	SpaceAfter=No
-23	木曾殿の	きそ	PROPN	N.prop.p.g	NameType=Sur|Case=Gen	24	nmod	_	SpaceAfter=No
+23	木曾殿の	きそ	PROPN	N.prop.p.g	Case=Gen|NameType=Sur	24	nmod	_	SpaceAfter=No
 24	頸をば	くび	NOUN	N.c.g	_	25	obj	_	SpaceAfter=No
 25	とてけり	とる	VERB	V.g	_	0	root	_	SpaceAfter=No
 26	。	。	PUNCT	Supsym.p	PunctType=Peri	25	punct	_	SpaceAfter=No
@@ -3507,7 +3507,7 @@
 # sent_id = 230
 # text = 今井が兄、樋口次郎兼光は、十郎蔵人うたんとて河内国長野の城へ越たりけるが、そこにてはうちもらしぬ。
 # text_ger = 
-1	今井が	いまゐ	PROPN	N.prop.n.s	NameType=Sur|Case=Gen	2	nmod	_	SpaceAfter=No
+1	今井が	いまゐ	PROPN	N.prop.n.s	Case=Gen|NameType=Sur	2	nmod	_	SpaceAfter=No
 2	兄	あに	NOUN	N.c.g	_	20	nsubj	_	SpaceAfter=No
 3	、	、	PUNCT	Supsym.c	PunctType=Comm	2	punct	_	SpaceAfter=No
 4	樋口	ひぐち	PROPN	N.prop.n.s	NameType=Sur	6	flat:name	_	SpaceAfter=No
@@ -3533,7 +3533,7 @@
 # text = 紀伊国名草にありと聞えしかば、やがてつづいて越たりけるが、都にいくさありと聞いてはせのぼる。
 # text_ger = 
 1	紀伊国	きのくに	PROPN	N.prop.p.g	NameType=Geo	3	obl:lmod	_	SpaceAfter=No
-2	名草に	なぐさ	PROPN	N.prop.p.g	NameType=Geo|Case=Loc	1	compound	_	SpaceAfter=No
+2	名草に	なぐさ	PROPN	N.prop.p.g	Case=Loc|NameType=Geo	1	compound	_	SpaceAfter=No
 3	あり	あり	VERB	V.g	_	5	ccomp	_	SpaceAfter=No
 4	と	と	PART	P.bind	_	5	compound:prt	_	SpaceAfter=No
 5	聞えしか	きこゆ	VERB	V.g	_	11	advcl	_	SpaceAfter=No
@@ -3675,7 +3675,7 @@
 # sent_id = 241
 # text = 樋口が手に茅野太郎といふ者あり。
 # text_ger = 
-1	樋口が	ひぐち	PROPN	N.prop.n.s	NameType=Sur|Case=Gen	2	nmod	_	SpaceAfter=No
+1	樋口が	ひぐち	PROPN	N.prop.n.s	Case=Gen|NameType=Sur	2	nmod	_	SpaceAfter=No
 2	手に	て	NOUN	N.c.g	_	8	obl:lmod	_	SpaceAfter=No
 3	茅野	ちの	PROPN	N.prop.n.s	NameType=Sur	4	flat:name	_	SpaceAfter=No
 4	太郎	たろう	PROPN	N.prop.n.f	NameType=Giv	6	ccomp	_	SpaceAfter=No
@@ -3686,9 +3686,9 @@
 9	。	。	PUNCT	Supsym.p	PunctType=Peri	8	punct	_	SpaceAfter=No
 
 # sent_id = 242
-# text = 四塚にいくらもはせ向うたる敵の中へかけ入り大音声をあげて「この御中に甲斐の一条次郎殿の御手の人やまします」。
+# text = 四塚にいくらもはせ向うたる敵の中へかけ入り大音声をあげて「この御中に甲斐一条次郎殿の御手の人やまします」。
 # text_ger = 
-1	四塚に	よつづか	PROPN	N.prop.p.g	NameType=Geo|Case=Loc	3	obl:lmod	_	SpaceAfter=No
+1	四塚に	よつづか	PROPN	N.prop.p.g	Case=Loc|NameType=Geo	3	obl:lmod	_	SpaceAfter=No
 2	いくらも	いくらも	ADV	Adv	_	3	advmod	_	SpaceAfter=No
 3	はせ	はす	VERB	V.g	_	4	compound:svc	_	SpaceAfter=No
 4	向うたる	むかふ	VERB	V.g	_	5	acl	_	SpaceAfter=No
@@ -3696,7 +3696,7 @@
 6	中へ	なか	NOUN	N.c.g	_	8	obl:lmod	_	SpaceAfter=No
 7	かけ	かく	VERB	V.g	_	8	compound:svc	_	SpaceAfter=No
 8	入り	いる	VERB	V.g	_	10	advcl	_	SpaceAfter=No
-9	大音声を	 だいおんじゃう	NOUN	N.c.g	Case=Acc	10	obj	_	SpaceAfter=No
+9	大音声を	だいおんじゃう	NOUN	N.c.g	Case=Acc	10	obj	_	SpaceAfter=No
 10	あげ	あぐ	VERB	V.g	_	0	root	_	SpaceAfter=No
 11	て	て	SCONJ	P.conj	_	10	mark	_	SpaceAfter=No
 12	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	21	punct	_	SpaceAfter=No
@@ -3744,7 +3744,7 @@
 9	。	。	PUNCT	Supsym.p	PunctType=Peri	8	punct	_	SpaceAfter=No
 
 # sent_id = 245
-# text = 笑はれて名のりけるは、「かう申すは信濃国諏訪上宮の住人、茅野の大夫光家が子に、茅野太郎光広、必ず一条次郎殿の御手をたづぬるにはあらず」。
+# text = 笑はれて名のりけるは「かう申すは信濃国諏訪上宮の住人、茅野の大夫光家が子に、茅野太郎光広、必ず一条次郎殿の御手をたづぬるにはあらず」。
 # text_ger = 
 1	笑はれ	わらふ	VERB	V.g	_	3	advcl	_	SpaceAfter=No
 2	て	て	SCONJ	P.conj	_	1	mark	_	SpaceAfter=No
@@ -3846,7 +3846,7 @@
 11	て	て	SCONJ	P.conj	_	10	mark	_	SpaceAfter=No
 12	「	「	PUNCT	Supsym.bo	PunctSide=Ini|PunctType=Quot	39	punct	_	SpaceAfter=No
 13	弓矢	ゆみや	NOUN	N.c.g	_	14	obj	_	SpaceAfter=No
-14	取る	とる	VERB	V.g	_	15	acl	_	SpaceAfter=No
+14	取	とる	VERB	V.g	_	15	acl	_	SpaceAfter=No
 15	ならひ	ならひ	NOUN	N.c.g	_	24	nsubj	_	SpaceAfter=No
 16	、	、	PUNCT	Supsym.c	PunctType=Comm	15	punct	_	SpaceAfter=No
 17	我も	われ	PRON	Pron	_	21	nsubj	_	SpaceAfter=No
